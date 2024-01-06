@@ -5,6 +5,9 @@ https://comming.com
 #EXTINF:-1,Asian Tv
 https://freeiptv25.netlify.app/live/bdix/app/AsianTv.m3u8
 
+#EXTINF:-1,Atn Bangla
+https://freeiptv25.netlify.app/live/bdix/app/AtnBangla.m3u8
+
 #EXTINF:-1,Atn News
 https://freeiptv25.netlify.app/live/bdix/app/AtnNews.m3u8
 
@@ -28,6 +31,9 @@ https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
 
 #EXTINF:-1,Desh Tv
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
+
+#EXTINF:-1,Duronto
+https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
 
 #EXTINF:-1,DBC News
 https://freeiptv25.netlify.app/live/bdix/app/DBC.m3u8
