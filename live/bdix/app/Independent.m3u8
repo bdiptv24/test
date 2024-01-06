@@ -1,1 +1,4 @@
-http://185.243.7.51:80/play/live.php?mac=00:1A:79:75:D4:11&stream=225752&extension=ts&play_token=1CXjCPS8y6
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
+http://185.243.7.51:80/play/live.php?mac=00:1A:79:75:D4:11&stream=225752&extension=m3u8&play_token=1CXjCPS8y6
