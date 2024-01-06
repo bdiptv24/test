@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1104672&extension=m3u8
