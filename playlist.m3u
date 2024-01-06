@@ -135,6 +135,9 @@ https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 #EXTINF:-1, Asports
 https://freeiptv25.netlify.app/live/bdix/app/Asports.m3u8
 
+#EXTINF:-1, Ptv Sports
+https://freeiptv25.netlify.app/live/bdix/app/PtvSports.m3u8
+
 #EXTINF:-1, Sony Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
 
@@ -188,7 +191,6 @@ https://freeiptv25.netlify.app/live/bdix/app/JioCri1.m3u8
 
 #EXTINF:-1, Jio Cricket 2
 https://freeiptv25.netlify.app/live/bdix/app/JioCri2.m3u8
-
 
 #EXTINF:-1, Astro Cricket HD
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
