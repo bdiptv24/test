@@ -137,6 +137,9 @@ https://starplay2.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1,Food Network
 https://starplay2.netlify.app/m3u/Food Network.m3u8
 
+#EXTINF:-1,Nick Hindi
+https://freeiptv25.netlify.app/live/bdix/app/NickHindi.m3u8
+
 #EXTINF:-1,Discovery Kids
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 
