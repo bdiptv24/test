@@ -98,6 +98,45 @@ https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 #EXTINF:-1,Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
+#EXTM3U
+#EXTINF:-1,Animal Planet
+https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1,DMAX
+https://starplay2.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF:-1,Discovery Science
+https://starplay2.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1,Discovery Turbo
+https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1,Investigation Discovery
+https://starplay2.netlify.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1,Discovery Bengali
+https://starplay2.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1,Discovery Hindi
+https://starplay2.netlify.app/m3u/discoveryhindi.m3u8
+
+#EXTINF:-1,TLC
+https://starplay2.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1,TRVL Channel
+https://starplay2.netlify.app/m3u/TRVL_Channel.m3u8
+
+#EXTINF:-1,HGTV
+https://starplay2.netlify.app/m3u/HGTV.m3u8
+
+#EXTINF:-1,Food Network
+https://starplay2.netlify.app/m3u/Food Network.m3u8
+
+#EXTINF:-1,Discovery Kids
+https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
+
+#EXTINF:-1,Discovery Kids Hindi
+https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1,&Pictures
 https://freeiptv25.netlify.app/live/bdix/app/&Pictures.m3u8
