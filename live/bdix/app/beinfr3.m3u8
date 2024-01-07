@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58755
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58755
+http://2hubs.ddns.net:25461/live/solidtv/0elrXWdEdl/58755.m3u8
