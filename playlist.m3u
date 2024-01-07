@@ -99,6 +99,10 @@ https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
 #EXTM3U
+#EXTINF:-1,Sony Bbc Earth
+https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
+
+#EXTM3U
 #EXTINF:-1,Animal Planet
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 
