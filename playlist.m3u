@@ -290,6 +290,21 @@ https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
 #EXTINF:-1,Astro Super Sports 4 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP4.m3u8
 
+#EXTINF:-1,Super Sports Cricket
+https://freeiptv25.netlify.app/live/bdix/app/sscri.m3u8
+
+#EXTINF:-1,Super Sports Football
+https://freeiptv25.netlify.app/live/bdix/app/ssfoot.m3u8
+
+#EXTINF:-1,Super Sports Laliga
+https://freeiptv25.netlify.app/live/bdix/app/sslaliga.m3u8
+
+#EXTINF:-1,Super Sports Premier League 
+https://freeiptv25.netlify.app/live/bdixappp/sspre.m3u8
+
+#EXTINF:-1,Super Sports PSL
+https://freeiptv25.netlify.app/live/bdix/app/sspsl.m3u8
+
 #EXTINF:-1,Bein Sports 1 AR
 https://freeiptv25.netlify.app/live/bdix/app/beinar1.m3u8
 
