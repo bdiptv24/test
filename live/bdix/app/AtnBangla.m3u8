@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://starshare.live:8080/live/Richard1/Richard1/431.m3u8
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.906900,
+https://six.gettvfree.tech/static/stream_2_1689_000.png
+#EXT-X-ENDLIST
