@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=15000
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14903_&extension=m3u8
