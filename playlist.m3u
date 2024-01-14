@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,In v Afg (Bangla FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_t2002/master.m3u8
+
+#EXTINF:-1,In v Afg (Hindi 4K)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t2002/master.m3u8
+
+#EXTINF:-1,In v Afg (English 4K)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_t2002/master.m3u8
+
+#EXTINF:-1,SA T20 (English FHD)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_merged_avc_hin_sa20_m1_120124/master.m3u8
+
+-------
+
 #EXTINF:-1,ATN Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
 
