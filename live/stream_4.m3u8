@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t2002/master.m3u8
