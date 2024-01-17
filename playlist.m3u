@@ -25,9 +25,11 @@ https://i-cdn-0.friness-cherlormur-i-275.site/stream2/i-cdn-0/21d5c1ab00ecb3ceb1
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://pbs.twimg.com/media/GAzukcsbIAAgipw?format=jpg&name=4096x4096",BBL 23/24
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ux46t9mE2hHp7dfaKKi27NGmYF4wZhh0_No4lj2sDquRTqYyueyVxO1UyLUlf3kNzdUFJ1M2wMhwt7YALzFY1w/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 1)
+1
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 2)
+2
 
 --------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
