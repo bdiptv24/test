@@ -360,7 +360,7 @@ https://starplay2.netlify.app/m3u/Food Network.m3u8
 ---------
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="",Nick Hindi
-https://freeiptv25.netlify.app/live/bdix/app/NickHindi.m3u8
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2182.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="",Discovery Kids
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
