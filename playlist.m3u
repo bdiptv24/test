@@ -8,7 +8,7 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (English 4K)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_t2002140124/master.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",SA T20 (English FHD)
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",SAT20 (English FHD)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_140124/master.m3u8
 
 
