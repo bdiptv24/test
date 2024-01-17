@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1,In v Afg (Bangla 4K)
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (Bangla 4K)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_t2002140124/master.m3u8
 
-#EXTINF:-1,In v Afg (Hindi 4K)
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (Hindi 4K)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t2002140124/master.m3u8
 
-#EXTINF:-1,In v Afg (English 4K)
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (English 4K)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_t2002140124/master.m3u8
 
-#EXTINF:-1,SA T20 (English FHD)
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",SA T20 (English FHD)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_140124/master.m3u8
 
 --------
@@ -62,591 +62,591 @@ http://103.120.172.74:5500
 
 -------
 
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",ATN Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1,Channel I
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1,RTV FHD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",RTV FHD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1,SATV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",SATV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1,Deepto TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Deepto TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1,Mohona TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mohona TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1,MY TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",MY TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1,Anando TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Anando TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1,Banglavision
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1,Boishakhi TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Boishakhi TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1,Deepto TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
-#EXTINF:-1,Maasranga TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Maasranga TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Ekushay TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1,Ekushey TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1,CHANNEL S HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",CHANNEL S HD
 http://208.86.19.13:81/519.stream/index.m3u8
 
-#EXTINF:-1,TBN 24 USA
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BTV World
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",BTV World
 http://103.230.105.252:1935/live/btv/ifest.m3u8
 
  ---------
 
 
-#EXTINF:-1,Medina Tv
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",Medina Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Makkah Tv
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",Makkah Tv
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,IQRA BANGLA
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
 
-#EXTINF:-1,IQRA BANGLA
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",IQRA BANGLA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 
-#EXTINF:-1,AL SUNNAH
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",AL SUNNAH
 https://edge.taghtia.com/sa/6.m3u8
 
-#EXTINF:-1,AL QURAN
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",AL QURAN
 https://edge.taghtia.com/sa/7.m3u8
 
-#EXTINF:-1,Deen TV UK
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 
 -----------
 
 
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
-#EXTINF:-1 ,Star Jalsha HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
-#EXTINF:-1,Jalsha Movies HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
-#EXTINF:-1,Khushboo Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 --------------------
 
-#EXTINF:-1,Asian Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Asian Tv
 https://freeiptv25.netlify.app/live/bdix/app/AsianTv.m3u8
 
-#EXTINF:-1,Atn Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Atn Bangla
 https://freeiptv25.netlify.app/live/bdix/app/AtnBangla.m3u8
 
-#EXTINF:-1,Atn News
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Atn News
 https://freeiptv25.netlify.app/live/bdix/app/AtnNews.m3u8
 
-#EXTINF:-1,BTV National
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",BTV National
 https://freeiptv25.netlify.app/live/bdix/app/BTV.m3u8
 
-#EXTINF:-1,Bangla Vision
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Bangla Vision
 https://freeiptv25.netlify.app/live/bdix/app/BanglaVision.m3u8
 
-#EXTINF:-1,Boishakhi
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Boishakhi
 https://freeiptv25.netlify.app/live/bdix/app/Boishakhi.m3u8
 
-#EXTINF:-1,Channel 24
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Channel 24
 https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
 
-#EXTINF:-1,Channel 9
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Channel 9
 https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 
-#EXTINF:-1,Channel i
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Channel i
 https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
 
-#EXTINF:-1,Desh Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Desh Tv
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
-#EXTINF:-1,Duronto
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Duronto
 https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
 
-#EXTINF:-1,DBC News
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",DBC News
 https://freeiptv25.netlify.app/live/bdix/app/DBC.m3u8
 
-#EXTINF:-1,Ekattor
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Ekattor
 https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
 
-#EXTINF:-1,Ekushey Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Ekushey Tv
 https://freeiptv25.netlify.app/live/bdix/app/EkusheyTv.m3u8
 
-#EXTINF:-1,Independent
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Independent
 https://freeiptv25.netlify.app/live/bdix/app/Independent.m3u8
 
-#EXTINF:-1,Iqra Bangla
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",Iqra Bangla
 https://freeiptv25.netlify.app/live/bdix/app/IqraBangla.m3u8
 
-#EXTINF:-1,Jamuna Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jamuna Tv
 https://freeiptv25.netlify.app/live/bdix/app/Jamuna.m3u8
 
-#EXTINF:-1,Maasranga HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Maasranga HD
 https://freeiptv25.netlify.app/live/bdix/app/MaasrangaHD.m3u8
 
-#EXTINF:-1,Mohona Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mohona Tv
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
 
-#EXTINF:-1,Mytv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mytv
 https://freeiptv25.netlify.app/live/bdix/app/Mytv.m3u8
 
-#EXTINF:-1,News24
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",News24
 https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
 
-#EXTINF:-1,Ntv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Ntv
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 
-#EXTINF:-1,Rtv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Rtv
 https://freeiptv25.netlify.app/live/bdix/app/Rtv.m3u8
 
-#EXTINF:-1,Rtv Music
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Rtv Music
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 
-#EXTINF:-1,SaTv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",SaTv
 https://freeiptv25.netlify.app/live/bdix/app/SaTv.m3u8
 
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Somoy Tv
 https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 
-#EXTINF:-1,Peace Tv Bangla
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="",Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Gazi Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Gazi Tv
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,T Sports (Live Match only)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",T Sports (Live Match only)
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1,Green Tv (Test)
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Green Tv (Test)
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
-#EXTINF:-1,Star Jalsha VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha VIP
 http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jalsha Movies
 https://freeiptv25.netlify.app/live/bdix/app/JalshaMoviesHD.m3u8
 
-#EXTINF:-1,Jalsha Movies VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Colors Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
 
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaHD.m3u8
 
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 
-#EXTINF:-1,Sun Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
 -------
 
-#EXTINF:-1,Sangeet Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
-#EXTINF:-1,Sangeet Bhojpuri
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Sangeet Bhojpuri
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBhojpuri/playlist.m3u8
 
-#EXTINF:-1,9XM
+#EXTINF:-1 group-title="INDIA" tvg-logo="",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1,Joo Music
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1,Music India
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Music India
 http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
 
-#EXTINF:-1,Masti
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Masti
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 
-#EXTINF:-1,Epic TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Epic TV
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1,Desi Channel
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:-1,Zoom
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 
 -------
 
 
-#EXTINF:-1,Sony Bbc Earth
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Sony Bbc Earth
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",National Geographic
 https://freeiptv25.netlify.app/live/bdix/app/NatGeo.m3u8
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Animal Planet
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1,DMAX
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",DMAX
 https://starplay2.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Science
 https://starplay2.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Turbo
 https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1,Investigation Discovery
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Investigation Discovery
 https://starplay2.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1,Discovery Bengali
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Bengali
 https://starplay2.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1,Discovery Hindi
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Hindi
 https://starplay2.netlify.app/m3u/discoveryhindi.m3u8
 
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",TLC
 https://starplay2.netlify.app/m3u/TLC.m3u8
 
-#EXTINF:-1,TRVL Channel
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",TRVL Channel
 https://starplay2.netlify.app/m3u/TRVL_Channel.m3u8
 
-#EXTINF:-1,HGTV
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",HGTV
 https://starplay2.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1,Food Network
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Food Network
 https://starplay2.netlify.app/m3u/Food Network.m3u8
 
 ---------
 
-#EXTINF:-1,Nick Hindi
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Nick Hindi
 https://freeiptv25.netlify.app/live/bdix/app/NickHindi.m3u8
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Discovery Kids
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 
-#EXTINF:-1,Discovery Kids Hindi
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Discovery Kids Hindi
 https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
 -----------
 
-#EXTINF:-1,& TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="",& TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 
-#EXTINF:-1,& TV HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="",& TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
-#EXTINF:-1,& Pictures
+#EXTINF:-1 group-title="INDIA" tvg-logo="",& Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 
-#EXTINF:-1,& Pictures HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="",& Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
-#EXTINF:-1,Zee Anmol Cinema
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 
-#EXTINF:-1,Zee News
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 
-#EXTINF:-1,Zee Hindustan
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
 
-#EXTINF:-1,Zee Business
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Business
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 
-#EXTINF:-1,Wion
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Wion
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
 
-#EXTINF:-1,Zee Salaam
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Salaam
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
 
-#EXTINF:-1,Zee Marathi
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
 
-#EXTINF:-1,Zee Marathi HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Marathi HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 
-#EXTINF:-1,Zee Talkies
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Talkies
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
 
-#EXTINF:-1,Zee Talkies HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Talkies HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 
-#EXTINF:-1,Zee Tamil
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Tamil
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
 
-#EXTINF:-1,Zee Cinemalu
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Cinemalu
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
-#EXTINF:-1,Zee Kannada
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Kannada
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 
-#EXTINF:-1,Bollywood Classic
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1,Zee Bollywood HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 -------
 
-#EXTINF:-1,&Pictures
+#EXTINF:-1 group-title="INDIA" tvg-logo="",&Pictures
 https://freeiptv25.netlify.app/live/bdix/app/&Pictures.m3u8
 
-#EXTINF:-1,Sony Max
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax.m3u8
 
-#EXTINF:-1,Sony Max2
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max2
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax2.m3u8
 
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Plus
 https://freeiptv25.netlify.app/live/bdix/app/StarPlus.m3u8
 
-#EXTINF:-1,Star Gold
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
 https://freeiptv25.netlify.app/live/bdix/app/StarGold.m3u8
 
-#EXTINF:-1,Star Gold Select
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Select
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldSelect.m3u8
 
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
 
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Action
 https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
 
-#EXTINF:-1,Star Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Star Movies
 https://freeiptv25.netlify.app/live/bdix/app/StarMovies.m3u8
 
-#EXTINF:-1,Sony Pix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Sony Pix
 https://freeiptv25.netlify.app/live/bdix/app/SonyPix.m3u8
 
-#EXTINF:-1,&flix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",&flix
 https://freeiptv25.netlify.app/live/bdix/app/&flix.m3u8
 
-#EXTINF:-1,Star Gold Romanc
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Romanc
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldRomanc.m3u8
 
-#EXTINF:-1,Star Gold Thrills
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Thrills
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 
 -------
 
-#EXTINF:-1,Star Sports 1 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 1 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1,Star Sports 2 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 2 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
-#EXTINF:-1,Sony Sports 1 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 1 SD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
-#EXTINF:-1,Sony Sports 2 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 2 SD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
-#EXTINF:-1,Sony Sports 5 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 5 SD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
-#EXTINF:-1,TNT Sports 1 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 1 UK
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 
-#EXTINF:-1,TNT Sports 2 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 2 UK
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
-#EXTINF:-1,TNT Sports 3 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 3 UK
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 
-#EXTINF:-1,TNT Sports 4 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 4 UK
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
-#EXTINF:-1,RMA TV (freeiptv25)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",RMA TV (freeiptv25)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 
-#EXTINF:-1,MUTV (freeiptv25)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1,Asports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Asports
 https://freeiptv25.netlify.app/live/bdix/app/Asports.m3u8
 
-#EXTINF:-1,Ptv Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Ptv Sports
 https://freeiptv25.netlify.app/live/bdix/app/PtvSports.m3u8
 
-#EXTINF:-1,Sony Liv
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Liv
 http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Sony Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
 
-#EXTINF:-1,Sony Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/SonySports2.m3u8
 
-#EXTINF:-1,Sony Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 3
 https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
 
-#EXTINF:-1,Sony Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
 
-#EXTINF:-1,Sports 18
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sports 18
 https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
 
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports Select 1
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
 
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports Select 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
 
-#EXTINF:-1,Star Sports 1 VIP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 1 VIP
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Star Sports 1 Hindi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 1 Hindi
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1Hindi.m3u8
 
-#EXTINF:-1,Star Sports 1 Hindi VIP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 1 Hindi VIP
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSports2.m3u8
 
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Cricket
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
 
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports F1
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsF1.m3u8
 
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Football
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsFoot.m3u8
 
-#EXTINF:-1,Sky Sports Main Event
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Main Event
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsMain.m3u8
 
-#EXTINF:-1,Sky Sports Premier League
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Premier League
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsPre.m3u8
 
-#EXTINF:-1,Willow
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Willow
 https://freeiptv25.netlify.app/live/bdix/app/Willow.m3u8
 
-#EXTINF:-1,Jio Cricket 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Jio Cricket 1
 https://freeiptv25.netlify.app/live/bdix/app/JioCri1.m3u8
 
-#EXTINF:-1,Jio Cricket 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Jio Cricket 2
 https://freeiptv25.netlify.app/live/bdix/app/JioCri2.m3u8
 
-#EXTINF:-1,Astro Cricket HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Cricket HD
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
 
-#EXTINF:-1,Astro Super Sports 1 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 1 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
-#EXTINF:-1,Astro Super Sports 2 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 2 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP2.m3u8
 
-#EXTINF:-1,Astro Super Sports 3 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 3 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
 
-#EXTINF:-1,Astro Super Sports 4 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 4 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP4.m3u8
 
-#EXTINF:-1,Super Sports Cricket
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Cricket
 https://freeiptv25.netlify.app/live/bdix/app/sscri.m3u8
 
-#EXTINF:-1,Super Sports Football
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Football
 https://freeiptv25.netlify.app/live/bdix/app/ssfoot.m3u8
 
-#EXTINF:-1,Super Sports Laliga
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Laliga
 https://freeiptv25.netlify.app/live/bdix/app/sslaliga
 
-#EXTINF:-1,Super Sports Premier League 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Premier League 
 https://freeiptv25.netlify.app/live/bdixappp/sspre.m3u8
 
-#EXTINF:-1,Super Sports PSL
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports PSL
 https://freeiptv25.netlify.app/live/bdix/app/sspsl.m3u8
 
-#EXTINF:-1,Bein Sports 1 AR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 1 AR
 https://freeiptv25.netlify.app/live/bdix/app/beinar1.m3u8
 
-#EXTINF:-1,Bein Sports 1 FR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 1 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr1.m3u8
 
 #EXTINF:-1,Bein Sports 2 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr2.m3u8
 
-#EXTINF:-1,Bein Sports 3 FR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 3 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr3.m3u8
 
-#EXTINF:-1,Sky Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/skysport1.m3u8
 
-#EXTINF:-1,Sky Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/skysport2.m3u8
 
-#EXTINF:-1,Sky Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 3
 https://freeiptv25.netlify.app/live/bdix/app/skysport3.m3u8
 
-#EXTINF:-1,Sky Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
 
 
-#EXTINF:-1,90s Hit Songs 
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",90s Hit Songs 
 https://ythls-v2.onrender.com/video/eu191hR_LEc.m3u8 
 
-#EXTINF:-1,Hindi Lofi 2 24x7
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Hindi Lofi 2 24x7
 https://ythls-v2.onrender.com/video/_buliqWZv3U.m3u8
 
-#EXTINF:-1,Best of Hindi
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Best of Hindi
 https://ythls-v2.onrender.com/video/J6fP6abZkO0.m3u8
 
-#EXTINF:-1,Best of Hindi 2
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Best of Hindi 2
 https://ythls-v2.onrender.com/video/4OEsFfhS8-E.m3u8
 
-#EXTINF:-1,Hindi Romantic Song
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Hindi Romantic Song
 https://ythls-v2.onrender.com/vide/DK7uqCCbEvU.m3u8
 
-#EXTINF:-1,Shreya Ghoshal
+#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Shreya Ghoshal
 https://ythls-v2.onrender.com/video/31V1rdbH4hM.m3u8
