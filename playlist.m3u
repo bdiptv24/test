@@ -1,19 +1,4 @@
-#EXTM3U
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (Bangla 4K)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_t2002140124/master.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (Hindi 4K)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t2002140124/master.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",In v Afg (English 4K)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_t2002140124/master.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",SAT20 (English FHD)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_140124/master.m3u8
-
-
---------
-
+#EXTM3U @copyright freeiptv25
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksu4jRka-tXQeTUGj0t_xO0Qq7MMhjw1Opw&usqp=CAU",Guardians of The Galaxy vol 3
 https://yot.gnicirp.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
 
@@ -25,6 +10,10 @@ https://9str-m3u8v1.playm4u.xyz/m3u8v2/auto/654ade0fb9928f7aa9f09a33/e220ae141eb
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",12th Fail
 https://xydp.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc02efb5c01bdb9ef4c027baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a33c5475f69263974aa15d4aec091186a3b967167e146263d671/h/list;15a38722f8105b46b5906319cebaec048532a5425bb8bbb64a4264a8a1.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUhsFZtvbsqPnkFSWpiX83GxbXDL2iLe1_A&usqp=CAU",Surongo
+https://9str-m3u8v1.playm4u.xyz/m3u8v2/auto/64ec440e51e83d17db4cc34c/e220ae141eb574fe7ada7f5b1a66d981/dab8f2e59e13b09ffaa96033deb9f2bf/1705482577/453d6c7604e5c8e1b90a68ab191b3a6b.m3u8
+
 
 --------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
