@@ -15,7 +15,10 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng
 --------
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksu4jRka-tXQeTUGj0t_xO0Qq7MMhjw1Opw&usqp=CAU",Guardians of The Galaxy vol 3
-https://yot.gnicirp.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/1080/index.m3u8
+https://yot.gnicirp.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1akQTaZ2RWafmDAbev0el6ExSS3KFOpGqgA&usqp=CAU",Man of Steel
+https://yot.gnicirp.com/_v10/e29d5710499e5ddbee1be62f196b6ead484169a66d76cd55572a5da30bf9c36915490b46e8af3b66ee380dc4eb4eafde81c2498f72d6ec137e9a87ff5f16731757c6216e570d1b6c5c477ca6a31f9a2ced3c3febe94bf315e0e0d6b8e36b564b71873bfdd39bd3b9aaf81f220c331e03eba24b1ae132ed88b94dcc5812aa3777b27c3478f5b22f4e12ec67e848b34a83/playlist.m3u8
 --------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
 http://103.120.172.74:1040
