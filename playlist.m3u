@@ -11,6 +11,19 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_t
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="",SA T20 (English FHD)
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_140124/master.m3u8
 
+
+--------
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://free.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://free.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://free.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://free.cvmtv.site/E4?token=live
+
+
 --------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
 http://103.120.172.74:1040
