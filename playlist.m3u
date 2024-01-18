@@ -285,99 +285,99 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv (Test)
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Star Jalsha VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha VIP
 http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jalsha Movies
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAeZMPD5RFKfeNVlpJb54Tfp9p97tSZ2OPA&usqp=CAU",Jalsha Movies
 https://freeiptv25.netlify.app/live/bdix/app/JalshaMoviesHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Jalsha Movies VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAeZMPD5RFKfeNVlpJb54Tfp9p97tSZ2OPA&usqp=CAU",Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Colors Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU",Colors Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU",Zee Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Zee Bangla Cinema
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndSU1yuoxGhUCvy7L_TzIMbXihSsr4CP9XQ&usqp=CAU",Zee Bangla Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sun Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
 -------
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sangeet Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sangeet Bhojpuri
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",Sangeet Bhojpuri
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBhojpuri/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",9XM
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLuB8rvWcLhmfjyyG1LGnR7uIu-ptRIUuqQ&usqp=CAU",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Joo Music
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Music India
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YamzMIDiwKaO7k4l6v_lrUZm1OyjYoesJg&usqp=CAU",Music India
 http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Masti
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqMdKyFpoMkRWYDmqbbi8O97MrmVA2fbLmw&usqp=CAU",Masti
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Epic TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nQJ_ckUMRWXVOS8iCKt1cLFNI7PqiPhPQg&usqp=CAU",Epic TV
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Desi Channel
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcY9Z-XH13nkepeCwHjM7yhswJTeQqA6oMFA&usqp=CAU",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zoom
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSJPFrHNAsABoBFZaXm4KOC5DIDuA2a8vZw9yuoQg=s900-c-k-c0x00ffffff-no-rj",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 
 -------
 
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Sony Bbc Earth
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://yt3.googleusercontent.com/BlTwBquD1_OTEdhh-GD40uyntWswf0pVbTRix24jirdYAuwimB9xFdazgagnlFKbDjL4-jPrLg=s900-c-k-c0x00ffffff-no-rj",Sony Bbc Earth
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",National Geographic
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsWUgEw3JJk--B_XKKJN5jUppJthgmmIWOg&usqp=CAU",National Geographic
 https://freeiptv25.netlify.app/live/bdix/app/NatGeo.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Animal Planet
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHdThvTEhl6V2GzU1xC8XOBlvKlW9leqt6w&usqp=CAU",Animal Planet
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",DMAX
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbsv7k-npTRQaOzwRhXBuhDw13l0dnbThRg&usqp=CAU",DMAX
 https://starplay2.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMWh-t9EfSndnv18Yjdj5ZH-pQ4mY5vfbYA&usqp=CAU",Discovery Science
 https://starplay2.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOAbspk4HhdB343Qo-S_zWFpHu2TwkiovYA&usqp=CAU",Discovery Turbo
 https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Investigation Discovery
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/03/Discovery-Channel-Logo-Vector.jpg",Investigation Discovery
 https://starplay2.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Bengali
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg&usqp=CAU",Discovery Bengali
 https://starplay2.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Discovery Hindi
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLmFCwirMomyl9HdrQ4_bb3ehhbP6e5OpIg&usqp=CAU",Discovery Hindi
 https://starplay2.netlify.app/m3u/discoveryhindi.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",TLC
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU",TLC
 https://starplay2.netlify.app/m3u/TLC.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",TRVL Channel
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/aa/75/44aa75ef-34bc-2221-8b3f-6270bd39750d/AppIcon-TRAV-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",TRVL Channel
 https://starplay2.netlify.app/m3u/TRVL_Channel.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",HGTV
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxUoN_D20sbVc40M-l_6V413cByn4c1eOefA&usqp=CAU",HGTV
 https://starplay2.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Food Network
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctbIIxqAJ8INZn8YGhXM4xBoQ8X3V7O8rMg&usqp=CAU",Food Network
 https://starplay2.netlify.app/m3u/Food Network.m3u8
 
 ---------
