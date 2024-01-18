@@ -26,10 +26,10 @@ https://i-cdn-0.friness-cherlormur-i-275.site/stream2/i-cdn-0/21d5c1ab00ecb3ceb1
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ux46t9mE2hHp7dfaKKi27NGmYF4wZhh0_No4lj2sDquRTqYyueyVxO1UyLUlf3kNzdUFJ1M2wMhwt7YALzFY1w/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 1)
-1
+https://com.com
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 2)
-2
+https://com.com
 
 --------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
@@ -82,31 +82,31 @@ http://103.120.172.74:5500
 
 -------
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",ATN Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbqcsNitFCvE9tvpls4ytvF840p9M87Y2Ww1b50w_cNobHazh-HAvSLQ&s=10",ATN Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",ATN Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbqcsNitFCvE9tvpls4ytvF840p9M87Y2Ww1b50w_cNobHazh-HAvSLQ&s=10",ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Channel I
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.channelionline.com/wp-content/uploads/2021/08/channel-i-logo-HD.jpg",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",RTV FHD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCneK3J8FQn9Z_5OtqeaBJndKT1Fiv5E9_xxHhq9YEMDYj-OWt7XKHd8&s=10",RTV FHD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",SATV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPjeKbZ5_QcCL6rP0x_k6K79r9qQU-bkB0W6xMFgnHP7zbBgcvbTgmPIl&s=10",SATV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Deepto TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfA3gCC9B8styMaIcHrLlWkE_FDWonJ8UgTA&usqp=CAU",Deepto TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Mohona TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkqAXOLEhOvhKc-cSb4yXUdobEWksd8GycwzWEAFpXtMqVrVMwPT0eD8&s=10",Mohona TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",MY TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9ECOcCAoFcuSRG8ekJpAC8WiUa4bCy81MFvHgb-_W0Edeg6oz3QLPiv9&s=10",MY TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="",Anando TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLsxq8OKl6u_hoCD2OZhIdn9Nlb-JrYIqWw&usqp=CAU",Anando TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",Banglavision
