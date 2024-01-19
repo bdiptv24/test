@@ -29,22 +29,22 @@ https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ux46t9mE2hHp7dfaKKi27
 https://com.com
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 2)
-https://com.com
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=28
 
 --------
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee India
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
 http://103.120.172.74:1040
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",Star India
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10",Star India
 http://103.120.172.74:1060
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",Colors
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU",Colors
 http://103.120.172.74:1070
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",Sony SAB
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2t2mkGo8wV2aDuC_qING0-Ndda4vVOaowg&usqp=CAU",Sony SAB
 http://103.120.172.74:1080
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",India news
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXQtORtlpJC5PBkiag-oAesvQYa8tOxaEqKZNz4Yk9Q&s",India news
 http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",StarPlus
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://yt3.googleusercontent.com/dTXsoAPnQ3rEkf7Mw8CTbH3wvnnhCzdahQU_HLgYNbH_dV5Sn_ql-gK_Sv1gpIqcMZmxEmkFmQ=s900-c-k-c0x00ffffff-no-rj",StarPlus
 http://103.120.172.74:1120
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="",Zee TV
+#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc49rBRMBKI5wLbSiQ4_fp37L-KmfPu6Kz1iwW36cK4NbLCmHAmkur0-W4&s=10",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="",Sony Max
 http://103.120.172.74:1150
