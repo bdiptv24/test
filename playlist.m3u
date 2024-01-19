@@ -393,16 +393,16 @@ https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
 -----------
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",& TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",& TV HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",& Pictures
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",& Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",& Pictures HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",& Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfZ4G2BNukWrerCJwyzLLkrDk_QvrpXyRJw1cIeEdLA&s",Zee Bollywood
@@ -458,43 +458,43 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 -------
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",&Pictures
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",&Pictures
 https://freeiptv25.netlify.app/live/bdix/app/&Pictures.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/blt60aedf8adfec6f95/64085afee9f75310481c3e81/download",Sony Max
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max2
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmP0SXNBMkQH8oux_JJlyTWgcMae8BULC99TL8ZlN9TCUhXjkfAYMdDzH&s=10",Sony Max 2
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax2.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Plus
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/dTXsoAPnQ3rEkf7Mw8CTbH3wvnnhCzdahQU_HLgYNbH_dV5Sn_ql-gK_Sv1gpIqcMZmxEmkFmQ=s900-c-k-c0x00ffffff-no-rj",Star Plus
 https://freeiptv25.netlify.app/live/bdix/app/StarPlus.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYx6uyjKvCMsXVrL28D74_Omj8cRfbb0DZ2XSF6mwEk2xAbLyA28yvDu8&s=10",Star Gold
 https://freeiptv25.netlify.app/live/bdix/app/StarGold.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Select
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dBdps4z2looUCF8Wc-Jp3Lejfd_3aRejP_I-pit4m-76bGu9GwnOs4Q&s=10",Star Gold Select
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldSelect.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Cinema
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_4eUY0_anWbrNPylxM_3i1j3044SmwfU1a-Qe3_8UmaZ8AicNf90tPs&s=10",Zee Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee Action
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4njBDG_rN5LCXkuOdGmdkp0xPAVHGGBGeH_a_Hat3Q&s",Zee Action
 https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Star Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLny2XrREoH_bIpFgzVqP5mJo0yWmIgxaYpg1MPZL-WdoP6FTcDr0rozs&s=10",Star Movies
 https://freeiptv25.netlify.app/live/bdix/app/StarMovies.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Sony Pix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrmCKMbpBamG34_3nwXgdKFNBZWecphIdVg&usqp=CAU",Sony Pix
 https://freeiptv25.netlify.app/live/bdix/app/SonyPix.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",&flix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KwjrDpu0xVicyCHmjRkOA5yCO154ymzFRigwATWC9mzdswLdwSn1SQs&s=10",&flix
 https://freeiptv25.netlify.app/live/bdix/app/&flix.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Romanc
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/_FS_nI0XiLtcGZvdzA6YhLF9nUW7_F8c6TkK9YOlC1lfvVykFJJxx58ths3_NJ1_GjSGDul-hPc=s900-c-k-c0x00ffffff-no-rj",Star Gold Romanc
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldRomanc.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold Thrills
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SpeMvAqCHo78nrLDP5JfWKPaEKgZs_u1dMzRtzDMOq0oeEX1ov0qCIXi&s=10",Star Gold Thrills
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 
 -------
