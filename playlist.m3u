@@ -681,6 +681,14 @@ https://freeiptv25.netlify.app/live/bdix/app/skysport3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 1
+http://15.204.217.195/SPORTTV1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 2
+http://15.204.217.195/SPORTTV2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 3
+http://15.204.217.195/SPORTTV3/index.m3u8
 
 #EXTINF:-1 group-title="24/7 Live" tvg-logo="",90s Hit Songs 
 https://ythls-v2.onrender.com/video/eu191hR_LEc.m3u8 
