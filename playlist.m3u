@@ -1,4 +1,10 @@
 #EXTM3U @copyright freeiptv25
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 1
+https://parz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0b942eae5c55b1e4fb0d057baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a4381022a189368246f1054eea0f11c4f3/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 2
+https://olar.vidrock2.store/_v1/12a3c523fb105800ed8c394685aeeb0bc52eaf5c01bde4ed154c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23b5277f4d531c115e30918b40816c4f6e83e123946343dd3/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
+
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksu4jRka-tXQeTUGj0t_xO0Qq7MMhjw1Opw&usqp=CAU",Guardians of The Galaxy vol 3
 https://yot.gnicirp.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
 
