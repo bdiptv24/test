@@ -430,11 +430,15 @@ https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids Hindi
 https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Disney XD
+#EXTINF:-1 group-title=KIDS" tvg-logo="",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Disney 
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Disney 
 http://38.96.178.201:80/live/Disney/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/C4DJZxrv4uh-78bwqmYtJ-H-r6RsuUyN6I08zJHomvgSjb_757SzNpbPyUkl7u1T_qXCYhb7=s900-c-k-c0x00ffffff-no-rj",Nick Bangla
+https://sports247.eu.org/api/app/live.php?id=1341&e=.m3u8
+
 -----------
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV
