@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://142.54.172.138/premium33/playlist.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=st=1706452571~exp=1706452871~acl=*~id=b7bf9605-d098-42ec-ae36-74cad926e8a8~hmac=52e95216a9b77037ee9974615137b68d38869497a00aa46f070ee946ab9040a6&originpath=/linear/hls/pb/event/wchc-yRfS6Oq1EK97fcrIg/stream/5c26f435-2220-4e4f-ac1d-11a22e79089b:TPE/master.m3u8
