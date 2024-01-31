@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/master_mdh.m3u8?hdnea=st=1706452571~exp=1706452871~acl=*~id=b7bf9605-d098-42ec-ae36-74cad926e8a8~hmac=52e95216a9b77037ee9974615137b68d38869497a00aa46f070ee946ab9040a6&originpath=/linear/hls/pb/event/wchc-yRfS6Oq1EK97fcrIg/stream/5c26f435-2220-4e4f-ac1d-11a22e79089b:TPE/master.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1114584&extension=m3u8
+#http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1114584&extension=m3u8
