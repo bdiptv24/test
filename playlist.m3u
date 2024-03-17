@@ -1,50 +1,6 @@
 #EXTM3U @copyright freeiptv25
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 1
-https://parz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0b942eae5c55b1e4fb0d057baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a4381022a189368246f1054eea0f11c4f3/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 2
-https://olar.vidrock2.store/_v1/12a3c523fb105800ed8c394685aeeb0bc52eaf5c01bde4ed154c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23b5277f4d531c115e30918b40816c4f6e83e123946343dd3/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 3
-https://wkba.vidrock2.store/_v1/12a3c523f3105800ed8c394685aeeb0bc62ea85c5db9b9fa4d047baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd634c614e3091fb40a14c3/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 4
-https://xgkr.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc02ea05c54b0bcfa140d7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23d5376f3d2338246f6054aea0a11c4f4e87c422b4a6563d570435460c5/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 5
-https://ryjl.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b9a2efb5c5ab0beb1424d7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a33b5476b485619913a05a49af5a449df1ee3f117a116561/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzwu18c5I_q9JSCPcZebUyIjP2ZTTAd5zQ&usqp=CAU",Loki Season 2 EP 6
-https://ryjl.vidrock2.store/_v1/12a3c523fc105800ed8c394685aeeb0bc72ef95c54b0f7b30d0d7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a37f0720afd036c215a35b49ed085691a6b03b167d116462/h/list;15a38722f8105b46b5906210cebaec068532a5425bb8b8b249476ea5a0.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTksu4jRka-tXQeTUGj0t_xO0Qq7MMhjw1Opw&usqp=CAU",Guardians of The Galaxy vol 3
-https://yot.gnicirp.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1akQTaZ2RWafmDAbev0el6ExSS3KFOpGqgA&usqp=CAU",Man of Steel
-https://yot.gnicirp.com/_v10/e29d5710499e5ddbee1be62f196b6ead484169a66d76cd55572a5da30bf9c36915490b46e8af3b66ee380dc4eb4eafde81c2498f72d6ec137e9a87ff5f16731757c6216e570d1b6c5c477ca6a31f9a2ced3c3febe94bf315e0e0d6b8e36b564b71873bfdd39bd3b9aaf81f220c331e03eba24b1ae132ed88b94dcc5812aa3777b27c3478f5b22f4e12ec67e848b34a83/playlist.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12SjcCkA-faPFD3SNlXL1D0IgLeNKCW22GajvAA1o1vjs0S9pqwjJTh0&s=10",Jawan
-https://qwqr.vidrock2.store/_v1/12a3c523fc105800ed8c394685aeeb0b932ea95c03bde2b24d417baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a47f0720afd2338246f1054a/h/list;15a38722f8105b46b5906319cebaea058532a5425bb8bbb6484c68a8a2.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",12th Fail
-https://yot.gnicirp.com/_v10/1404ed8fb0c0f821385ff9a9c4f610ca2fccd3474ebac661275575cddb2c1f09d181cddf8d73d6a979ce37f95d219f1cd31bea88a922646b0176fa1a4e7cfd1896454ed16047f908a11effe8e4fd1ba4882f68b93c52c204ad460a2c846613127d9041d6eafd7e48da26591c54364cc79d4f3b03ed8a3f21acf6123e5e08ce3808362ad20c99592842e6569fb3792ae0/playlist.m3u8
-
 #EXTINF:-1 group-title="Test" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_disney_themarvels_1571_v3_c177caea.jpeg",The Marvels
 https://pixeldra.in/api/file/uKr12N7m?download
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzSvcYTzr5qtXu6MrlJ7acsgb28n1IOrGwA&usqp=CAU",Animal
-https://i-cdn-0.friness-cherlormur-i-275.site/stream2/i-cdn-0/21d5c1ab00ecb3ceb14740c80dacfe7f/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VFp3TEZFaZ1mVs1keNBjWHV0dOJTWw0kMVl3TEtGMap2Y41kMJRzTUVVP:1705476122:103.25.251.252:632fe62b1f4696dbff2faadae1ffef50f38a9915fc50cf66869e17a2f9ae45f1/index.m3u8
-
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2W5kmydAim_H1pam0saPoSHvPYQQ5We0hw&usqp=CAU",Salaar
-http://9.fastlink.world/movies/download/New-Hindi-Movies-Theatre-Print/12870/Salaar_2023_HD_720_DVD_SCR__hd-By-FilmyHit.mp4
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2LoprirHD7ciMmYDYj2Ci0j3gagouEhBPw&usqp=CAU",Aquaman & Lost Kingdom
-http://9.fastlink.world/movies/download/Hollywood-Dubbed-in-Hindi-Original-DvD-Rip/12872/Aquaman_and_the_Lost_Kingdom_2023_Dub_in_Hindi__hd-By-FilmyHit.mp4
-
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFhYzdhMzMtMjRhNS00MWQzLThmZDAtMmJjNjI0NzMxYzllXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_FMjpg_UX1000_.jpg",Hubba 1080p
-https://worker-broad-resonance-75e6.epickmovieshd.workers.dev/0:/vs-4505994430215079/Complete-Movies-Collection/2024/Hubba%20(2024)/[Epickmovies.com]%20Hubba%20(2024)%20Bengali%20720p%20WEb-DL.mp4
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://image.tmdb.org/t/p/original/7aFtathzhnqWJpdlDaJWV37eUfS.jpg",Osomoy
 https://pixeldra.in/api/file/Rj5U97hL?download
@@ -56,18 +12,6 @@ https://pixeldra.in/api/file/my46muTV?download
 https://pixeldra.in/api/file/JM1DF2T4?download
 
 -------
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://pbs.twimg.com/media/GAzukcsbIAAgipw?format=jpg&name=4096x4096",BBL 23/24
-https://gettvfree.tech/live/stream_e1.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 1)
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmz3c_Lz9_K7_glyQwsBwHQWl-QW71PH7Qvw-SklQairQAeOBA2MwkNo8&s=10",BPL 2024 (Live 2)
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-
---------
 
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
 http://103.120.172.74:1040
