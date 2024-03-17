@@ -508,32 +508,6 @@ https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 
 -------
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxD3KbpYDVpxp5IOLtGsffr2xo6AVwCkBTqw&usqp=CAU",Star Sports 1 SD
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAyvX5zjjcMYhrFxksDqJharzsYG8NSoBAQ&usqp=CAU",Star Sports 2 SD
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 1 SD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 2 SD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 5 SD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 1 UK
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 2 UK
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 3 UK
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 4 UK
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",RMA TV (freeiptv25)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
@@ -663,35 +637,3 @@ https://freeiptv25.netlify.app/live/bdix/app/skysport3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 1
-http://15.204.217.195/SPORTTV1/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 2
-http://15.204.217.195/SPORTTV2/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sport 3
-http://15.204.217.195/SPORTTV3/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Premier Sports 1
-https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
-http://202.21.104.6:88/sps-prime/index.m3u8
-
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",90s Hit Songs 
-https://ythls-v2.onrender.com/video/eu191hR_LEc.m3u8 
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Hindi Lofi 2 24x7
-https://ythls-v2.onrender.com/video/_buliqWZv3U.m3u8
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Best of Hindi
-https://ythls-v2.onrender.com/video/J6fP6abZkO0.m3u8
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Best of Hindi 2
-https://ythls-v2.onrender.com/video/4OEsFfhS8-E.m3u8
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Hindi Romantic Song
-https://ythls-v2.onrender.com/vide/DK7uqCCbEvU.m3u8
-
-#EXTINF:-1 group-title="24/7 Live" tvg-logo="",Shreya Ghoshal
-https://ythls-v2.onrender.com/video/31V1rdbH4hM.m3u8
