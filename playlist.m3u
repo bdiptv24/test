@@ -11,6 +11,24 @@ https://pixeldra.in/api/file/my46muTV?download
 #EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCM1S94viM32fowoBJ5iicPlO93tv4_cSrng&usqp=CAU",Spider Man Far From Home
 https://pixeldra.in/api/file/JM1DF2T4?download
 
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Music 1
+https://freeiptv25.netlify.app/live/bdix/app/24x7m1.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Music 2
+https://freeiptv25.netlify.app/live/bdix/app/24x7m2.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Music 3
+https://freeiptv25.netlify.app/live/bdix/app/24x7m3.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Movie 1
+https://freeiptv25.netlify.app/live/bdix/app/24x7mv1.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Movie 2
+https://freeiptv25.netlify.app/live/bdix/app/24x7mv2.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Movie 3
+https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
+
 -------
 
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
