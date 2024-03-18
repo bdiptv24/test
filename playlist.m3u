@@ -26,6 +26,9 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7m2.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Music 3
 https://freeiptv25.netlify.app/live/bdix/app/24x7m3.m3u8
 
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Music 4
+https://freeiptv25.netlify.app/live/bdix/app/24x7m4.m3u8
+
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Movie 1
 https://freeiptv25.netlify.app/live/bdix/app/24x7mv1.m3u8
 
@@ -34,6 +37,9 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv2.m3u8
 
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Movie 3
 https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Hotstar Series
+https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 
 -------
 
