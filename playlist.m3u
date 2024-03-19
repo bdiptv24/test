@@ -516,7 +516,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&exte
 
 -------
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",Movies Share
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.JJsCbCPprY0rC537YfWxBAHaE8?rs=1&pid=ImgDetMain",Movies Share
 https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nWcRVplM0m0NHBYGpaQoiqL8msIWBrWQ4A&usqp=CAU",Movies Now
@@ -543,31 +543,31 @@ https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 -------
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",RMA TV (freeiptv25)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg",RMA TV (freeiptv25)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",MUTV (freeiptv25)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Asports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://itfuns.net/wp-content/uploads/2021/10/A-Sports-Watch-Live-TV-Channels.jpg",Asports
 https://freeiptv25.netlify.app/live/bdix/app/Asports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Ptv Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg",Ptv Sports
 https://freeiptv25.netlify.app/live/bdix/app/PtvSports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Liv
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.uApCHgSSGvn-dCto91PxLAAAAA?w=404&h=316&rs=1&pid=ImgDetMain",Sony Liv
 http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-1.jpg",Sony Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/sony-ten-2-hd.png",Sony Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/SonySports2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-5.jpg",Sony Sports 3
 https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg",Sony Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtmrBgqgQAEma6QZg4OuWD1SGoJDP9AAzpA&usqp=CAU",Sports 18
@@ -594,19 +594,19 @@ http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KFb9tkYDN2XvliONAepep7UvNVDqCaVHLw&usqp=CAU",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSports2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Cricket
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsCricket.png",Sky Sports Cricket
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports F1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkyF1.png",Sky Sports F1
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsF1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Football
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportFootball.png",Sky Sports Football
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsFoot.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Main Event
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsMainEvent.png",Sky Sports Main Event
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsMain.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports Premier League
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsPL.png",Sky Sports Premier League
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsPre.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Willow
