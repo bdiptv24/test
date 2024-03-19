@@ -548,13 +548,13 @@ http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg",Colors Cineplex Superhit
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/1zHD6g5W/Manoranjan-Movies.jpg",Manoranjan Movies
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 
-#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",&Pictures
