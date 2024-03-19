@@ -465,13 +465,13 @@ https://freeiptv25.netlify.app/live/bdix/app/DisneyJr.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.gn1dDeWp-TxOaGP-hWxG_QHaDt?w=750&h=375&rs=1&pid=ImgDetMain",Sony Yah
 https://freeiptv25.netlify.app/live/bdix/app/SonyYah.m3u8
 
-#EXTINF:-1 group-title=KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 https://freeiptv25.netlify.app/live/bdix/app/WowKids.m3u8
 
-#EXTINF:-1 group-title=KIDS" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/pogo.png?itok=OVH-aEeH",Pogo
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/pogo.png?itok=OVH-aEeH",Pogo
 https://freeiptv25.netlify.app/live/bdix/app/Pogo.m3u8
 
-#EXTINF:-1 group-title=KIDS" tvg-logo="https://th.bing.com/th/id/OIP.iBQOYKuXrXn-ojYIe4NL2wHaFN?w=511&h=359&rs=1&pid=ImgDetMain",CN
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.iBQOYKuXrXn-ojYIe4NL2wHaFN?w=511&h=359&rs=1&pid=ImgDetMain",CN
 https://freeiptv25.netlify.app/live/bdix/app/CN.m3u8
 
 
