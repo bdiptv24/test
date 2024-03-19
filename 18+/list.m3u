@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="Xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqNJ47CuGOLPfYgN3m_f2HZSYOWeKxb3vn9HJqK5zU88R885a7vg3spiQZ&s=10",BRAZZERS
+#EXTINF:-1 group-title="Hi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqNJ47CuGOLPfYgN3m_f2HZSYOWeKxb3vn9HJqK5zU88R885a7vg3spiQZ&s=10",BRAZZERS
 https://moviekh.xtremestream.co/player/load_m3u8_xtremestream.php?data=f4aa0dd960521e045ae2f20621fb4ee9
 
-#EXTINF:-1 group-title="Xxx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr3pyxsNwRKtaElX6obYimjUI4LQ0CcbpsnHSdgcJok-lTna-lIWsdbTk&s=10",VIXEN
+#EXTINF:-1 group-title="Hi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr3pyxsNwRKtaElX6obYimjUI4LQ0CcbpsnHSdgcJok-lTna-lIWsdbTk&s=10",VIXEN
 https://moviekh.xtremestream.co/player/load_m3u8_xtremestream.php?data=e1021d43911ca2c1845910d84f40aeae
 
-#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports FHD
+#EXTINF:- group-title="Hi" tvg-logo="",Premiersports FHD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458647&extension=m3u8
 
-#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 2 FHD
+#EXTINF:- group-title="Hello" tvg-logo="",Premiersports 2 FHD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458678&extension=m3u8
 
-#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 3 FHD
+#EXTINF:- group-title="Hello" tvg-logo="",Premiersports 3 FHD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458674&extension=m3u8
 
-#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 4 FHD
+#EXTINF:- group-title="Hello" tvg-logo="",Premiersports 4 FHD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458675&extension=m3u8
