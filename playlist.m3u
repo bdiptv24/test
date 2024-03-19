@@ -41,6 +41,37 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Hotstar Series
 https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 1
+https://freeiptv25.netlify.app/live/stream_1.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 2
+https://freeiptv25.netlify.app/live/stream_2.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 3
+https://freeiptv25.netlify.app/live/stream_3.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 4
+https://freeiptv25.netlify.app/live/stream_4.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 5
+https://freeiptv25.netlify.app/live/stream_5.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 6
+https://freeiptv25.netlify.app/live/stream_6.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 7
+https://freeiptv25.netlify.app/live/stream_7.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 8
+https://freeiptv25.netlify.app/live/stream_8.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 9
+https://freeiptv25.netlify.app/live/stream_9.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 10
+https://freeiptv25.netlify.app/live/stream_10.m3u8
+
 -------
 
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
@@ -184,13 +215,13 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU",Zee Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU",Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndSU1yuoxGhUCvy7L_TzIMbXihSsr4CP9XQ&usqp=CAU",Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAeZMPD5RFKfeNVlpJb54Tfp9p97tSZ2OPA&usqp=CAU",Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
@@ -295,10 +326,13 @@ http://176.119.29.52/live.ts?channelId=237&deviceMac=00:1A:79:0A:CA:4F
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports (Live Match only)
-http://113.212.111.246:8080/hls/col12.m3u8
+https://freeiptv25.netlify.app/live/stream_8.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv (Test)
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
+https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
@@ -399,7 +433,7 @@ https://starplay2.netlify.app/m3u/Food Network.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 ---------
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://bdiptv.stream/uploads/tv_image/nick.png",Nick Hindi
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nick Hindi
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2182.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids
@@ -408,14 +442,24 @@ https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids Hindi
 https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
-#EXTINF:-1 group-title=KIDS" tvg-logo="",Disney XD
-http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 group-title=KIDS" tvg-logo="https://th.bing.com/th/id/OIP.uDRU3SasmxMCKpxE3Roc9gAAAA?w=420&h=235&rs=1&pid=ImgDetMain",Disney XD
+https://freeiptv25.netlify.app/live/bdix/app/DisneyXd.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="",Disney 
-http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.khyDAKily8dFg9mth5IjRwHaE8?w=252&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",Disney Jr
+https://freeiptv25.netlify.app/live/bdix/app/DisneyJr.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/C4DJZxrv4uh-78bwqmYtJ-H-r6RsuUyN6I08zJHomvgSjb_757SzNpbPyUkl7u1T_qXCYhb7=s900-c-k-c0x00ffffff-no-rj",Nick Bangla
-https://sports247.eu.org/api/app/live.php?id=1341&e=.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/OIP.gn1dDeWp-TxOaGP-hWxG_QHaDt?w=750&h=375&rs=1&pid=ImgDetMain",Sony Yah
+https://freeiptv25.netlify.app/live/bdix/app/SonyYah.m3u8
+
+#EXTINF:-1 group-title=KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
+https://freeiptv25.netlify.app/live/bdix/app/WowKids.m3u8
+
+#EXTINF:-1 group-title=KIDS" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/pogo.png?itok=OVH-aEeH",Pogo
+https://freeiptv25.netlify.app/live/bdix/app/Pogo.m3u8
+
+#EXTINF:-1 group-title=KIDS" tvg-logo="https://th.bing.com/th/id/OIP.iBQOYKuXrXn-ojYIe4NL2wHaFN?w=511&h=359&rs=1&pid=ImgDetMain",CN
+https://freeiptv25.netlify.app/live/bdix/app/CN.m3u8
+
 
 -----------
 
