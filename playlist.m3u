@@ -198,6 +198,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",Enter10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
@@ -416,64 +420,64 @@ https://sports247.eu.org/api/app/live.php?id=1341&e=.m3u8
 -----------
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",& Pictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",& Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfZ4G2BNukWrerCJwyzLLkrDk_QvrpXyRJw1cIeEdLA&s",Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4njBDG_rN5LCXkuOdGmdkp0xPAVHGGBGeH_a_Hat3Q&s",Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTpZjdKgWc4yujOFKaC_Oh9iz607KTHEH-HOQAbBJk-uMcqrjNmprGiN0&s=10",Zee Anmol Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNsMVAGQBkdvvk33opC6U_ewUboGSZKVK6P3C40OMILpJu-8t0Kk_2Nh0&s=10",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR28LQ5B-r5PqunU-7-yYcdtqUNP_pH7MFnDWEZXlKY2xnzEZ6E4ejGY4&s=10",Zee Hindustan
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJywoQEfLTVSKY741Hm2jtcLsrz239yXb_jYxbZ2aSG9AX0IiAyy3fOyTh&s=10",Zee Business
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx95_eHdlxy_LmiwhPNslJi-B5z5siMIhhyz6ycXBulg&s",Wion
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_uZMfJ0q3Dtbm-XQqmONBsCEWQIMXQQcAMD_4PPbrJJy_MDuy85AQ4g7W&s=10",Zee Salaam
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0Mdo-4xD8Aiv4hcoJs5LjooYTespzhpJxqCTf7JVauuu5qGkhHTYG-I&s=10",Zee Marathi
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0Mdo-4xD8Aiv4hcoJs5LjooYTespzhpJxqCTf7JVauuu5qGkhHTYG-I&s=10",Zee Marathi HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a-AhCnvLeU02Os-RQ7zaN19kWdXgImTyJQ&usqp=CAU",Zee Talkies
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a-AhCnvLeU02Os-RQ7zaN19kWdXgImTyJQ&usqp=CAU",Zee Talkies HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Zee_Thirai.jpg/250px-Zee_Thirai.jpg",Zee Tamil
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-oDPqyxIK8BVQOc6HfQChbvef_y4Jcb-H6q0bXtxKEHh7ULEjB6bdxyz&s=10",Zee Cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSbs-ocjHi_PT_vo0Uc5NXbluth3_G8Y35_A&usqp=CAU",Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOM5Is5SAnmaW3MqoYKEWgCaFtFGHv6l9FINnDxozqZZ8AmSMO4qmLNA&s=10",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfZ4G2BNukWrerCJwyzLLkrDk_QvrpXyRJw1cIeEdLA&s",Zee Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
@@ -505,10 +509,10 @@ https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU",Tata Sky Bollywood
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=156028&extension=m3u8&play_token=L1rHNlnk4z
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU",MTV Beats
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1118070&extension=m3u8&play_token=96PV5IP04v
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&extension=m3u8&play_token=EjRbwmymO9
 
 -------
 
