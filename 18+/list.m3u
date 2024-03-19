@@ -7,3 +7,12 @@ https://moviekh.xtremestream.co/player/load_m3u8_xtremestream.php?data=e1021d439
 
 #EXTINF:- group-title="Xxx" tvg-logo="",Premiersports FHD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458647&extension=m3u8
+
+#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 2 FHD
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458678&extension=m3u8
+
+#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 3 FHD
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458674&extension=m3u8
+
+#EXTINF:- group-title="Xxx" tvg-logo="",Premiersports 4 FHD
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:03:8a:5b&stream=1458675&extension=m3u8
