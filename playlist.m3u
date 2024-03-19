@@ -609,65 +609,65 @@ https://freeiptv25.netlify.app/live/bdix/app/SkySportsMain.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsPL.png",Sky Sports Premier League
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsPre.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Willow
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/Willow.png",Willow
 https://freeiptv25.netlify.app/live/bdix/app/Willow.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Jio Cricket 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.p-TYgNw2G3zSWOvSODwSrQHaEK?rs=1&pid=ImgDetMain",Jio Cricket 1
 https://freeiptv25.netlify.app/live/bdix/app/JioCri1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Jio Cricket 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.p-TYgNw2G3zSWOvSODwSrQHaEK?rs=1&pid=ImgDetMain",Jio Cricket 2
 https://freeiptv25.netlify.app/live/bdix/app/JioCri2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Cricket HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 1 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/supersport-5-656x388.jpg",Astro Super Sports 1 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 2 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/supersport-5-656x388.jpg",Astro Super Sports 2 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 3 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/supersport-5-656x388.jpg",Astro Super Sports 3 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Astro Super Sports 4 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/supersport-5-656x388.jpg",Astro Super Sports 4 FHD
 https://freeiptv25.netlify.app/live/bdix/app/ASP4.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Cricket
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/R.a64ad9bfc871dc9a983bae624f2547ae?rik=9X7TBPnpMAay9Q&pid=ImgRaw&r=0",Super Sports Cricket
 https://freeiptv25.netlify.app/live/bdix/app/sscri.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Football
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/R.afd9725514619d1e9fbf8bbfd6944768?rik=rXWywg8qjZyftw&pid=ImgRaw&r=0",Super Sports Football
 https://freeiptv25.netlify.app/live/bdix/app/ssfoot.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Laliga
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.GIf8J3XfFLsqFtZNzpFEGgAAAA?rs=1&pid=ImgDetMain",Super Sports Laliga
 https://freeiptv25.netlify.app/live/bdix/app/sslaliga
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports Premier League 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png",Super Sports Premier League 
 https://freeiptv25.netlify.app/live/bdixappp/sspre.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Super Sports PSL
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.hRJbMP1IQ3oRbCctbppUoQAAAA?rs=1&pid=ImgDetMain",Super Sports PSL
 https://freeiptv25.netlify.app/live/bdix/app/sspsl.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 1 AR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-1kBYjsNB3bY/Wt3wd5aWdmI/AAAAAAAAGt4/OavMqhMYUMwDMTwjUzAs1x_sP8eDXcE8gCLcBGAs/s1600/924692-beIN-logo-high.png",Bein Sports 1 AR
 https://freeiptv25.netlify.app/live/bdix/app/beinar1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 1 FR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.cbTklgc1qsI_ONH9zw8rRAAAAA?w=300&h=156&rs=1&pid=ImgDetMain",Bein Sports 1 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr1.m3u8
 
-#EXTINF:-1,Bein Sports 2 FR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.NFnu9uWdnP7y9fF2OGFGrAAAAA?rs=1&pid=ImgDetMain",Bein Sports 2 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 3 FR
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.Fzm1J9gins2q0WmBXTQOVgHaGI?rs=1&pid=ImgDetMain",Bein Sports 3 FR
 https://freeiptv25.netlify.app/live/bdix/app/beinfr3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.9wA3gjay5T1FFdN_LlrIGwHaEj?rs=1&pid=ImgDetMain",Sky Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/skysport1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.YoxxZTy5mFyksNA6hAnTwQHaEj?rs=1&pid=ImgDetMain",Sky Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/skysport2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.NmfU_z0eCiO4r0jsLeIAdgHaEj?rs=1&pid=ImgDetMain",Sky Sports 3
 https://freeiptv25.netlify.app/live/bdix/app/skysport3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sky Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.16QZr7LJyNyatFWD6jgTowAAAA?rs=1&pid=ImgDetMain",Sky Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
