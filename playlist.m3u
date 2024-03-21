@@ -350,16 +350,16 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/3NH6C52/STARJALSHAHD.png",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/3NH6C52/STARJALSHAHD.png",Star Jalsha VIP
 http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAeZMPD5RFKfeNVlpJb54Tfp9p97tSZ2OPA&usqp=CAU",Jalsha Movies
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xYcNxkz/JALSHAMOVIES.png",Jalsha Movies
 https://freeiptv25.netlify.app/live/bdix/app/JalshaMoviesHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAeZMPD5RFKfeNVlpJb54Tfp9p97tSZ2OPA&usqp=CAU",Jalsha Movies VIP
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xYcNxkz/JALSHAMOVIES.png",Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU",Colors Bangla
