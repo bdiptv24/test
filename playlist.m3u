@@ -362,7 +362,7 @@ https://freeiptv25.netlify.app/live/bdix/app/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xYcNxkz/JALSHAMOVIES.png",Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU",Colors Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",Zee Bangla
@@ -376,7 +376,7 @@ https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
 -------
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/58bzhFv/SANGEETBANGLA.png",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",Sangeet Bhojpuri
