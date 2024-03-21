@@ -365,10 +365,10 @@ http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU",Colors Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU",Zee Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",Zee Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaHD.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndSU1yuoxGhUCvy7L_TzIMbXihSsr4CP9XQ&usqp=CAU",Zee Bangla Cinema
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/zHKqr2Q/ZEEBANGLACINEMA.png",Zee Bangla Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaCinema.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
