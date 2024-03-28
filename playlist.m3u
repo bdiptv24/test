@@ -1,5 +1,4 @@
-#EXTM3U @copyright freeiptv25
-কিরে বোকাচোদা?
+#EXTM3U @copyright freriptv25
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/cxZ0WNg/Kacher-Manush-Dure-Thuiya-2024-Bengali-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",Kacher Manush Dure Thuiya 2024
 https://aws.flapdoodle.shop/download/MVNOY0pyTTFyOWlyTEstcG5TcnQ5RHp1S2k1MkYzY3ZqQDE3MTA3Mzc0MzM4ODdAMTAzLjI1LjI0OC4yMjZALzRnZVB1QWZndnhPazFjM3hZTnBIamJSZDdMNjh1TnAycUhQbXBjY01hRT0=/MLSBD.Shop-Kacher%20Manush%20Dure%20Thuiya%20(2024)%20RarbgHD.Live-Bengali%20Chorki%20WEB-DL%20720p.mkv
@@ -42,6 +41,12 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
 
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="",24x7 Hotstar Series
 https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="",IPL 1
+http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-XTWy2mPrTzFqjDO5vVPD_i1E7pxmD3FmWhg2LP6lTl3KHcXiZ9aCOse-TOIhsLQwI?ext=.ts
+
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="",IPL 2
+http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
 
 
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 1
