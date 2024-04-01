@@ -88,16 +88,6 @@ http://103.120.172.74:1040
 http://103.120.172.74:1060
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU",Colors
 http://103.120.172.74:1070
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2t2mkGo8wV2aDuC_qING0-Ndda4vVOaowg&usqp=CAU",Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXQtORtlpJC5PBkiag-oAesvQYa8tOxaEqKZNz4Yk9Q&s",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://yt3.googleusercontent.com/dTXsoAPnQ3rEkf7Mw8CTbH3wvnnhCzdahQU_HLgYNbH_dV5Sn_ql-gK_Sv1gpIqcMZmxEmkFmQ=s900-c-k-c0x00ffffff-no-rj",StarPlus
-http://103.120.172.74:1120
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc49rBRMBKI5wLbSiQ4_fp37L-KmfPu6Kz1iwW36cK4NbLCmHAmkur0-W4&s=10",Zee TV
-http://103.120.172.74:1140
-#EXTINF:-1 group-title="INDIA 2" tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/blt60aedf8adfec6f95/64085afee9f75310481c3e81/download",Sony Max
-http://103.120.172.74:1150
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkgX9wwZ1QGbuG_orRS6D1eDO3qP0HtdLM3yljoPyH41GK3J8-c5WPhmC8&s=10",DD news
 http://103.120.172.74:1170
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee TV
@@ -151,7 +141,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkqAXOLEhOvhKc-cSb4yXUdobEWksd8GycwzWEAFpXtMqVrVMwPT0eD8&s=10",Mohona TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9ECOcCAoFcuSRG8ekJpAC8WiUa4bCy81MFvHgb-_W0Edeg6oz3QLPiv9&s=10",MY TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
