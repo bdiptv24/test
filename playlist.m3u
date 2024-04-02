@@ -47,7 +47,7 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-XTWy2mPrTzFqjDO5vVPD_i1E7pxmD3FmWhg2LP6lTl3KHcXiZ9aCOse-TOIhsLQwI?ext=.ts
 
 #EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="",IPL 2
-http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 
 
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="",Live 1
@@ -757,6 +757,18 @@ https://freeiptv25.netlify.app/live/bdix/app/skysport3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.16QZr7LJyNyatFWD6jgTowAAAA?rs=1&pid=ImgDetMain",Sky Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/skysport4.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",TNT Sports 4
+https://catowrap.live/mrgamingbtsport4.m3u8
 
 ------
 
