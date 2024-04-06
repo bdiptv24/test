@@ -937,3 +937,46 @@ http://xtv.ooo:8080/667861/336612/355532
 http://xtv.ooo:8080/667861/336612/355533
 #EXTINF:-1 group-title="Backup" tvg-logo="",IN: Sony TV FHD
 http://xtv.ooo:8080/667861/336612/355534
+
+
+#EXTINF:-1 group-title="INDIA 3",9x Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIA 3",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="INDIA 3",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="INDIA 3",A1 TV Rajastha
+https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="INDIA 3",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 group-title="INDIA 3",Aaj Tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",ABP Ganga
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 group-title="INDIA 3",ABP Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 group-title="INDIA 3",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="INDIA 3",ABP Sanjha
+https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1 group-title="INDIA 3",Adipoli
+https://live.hungama.com/linear/adipoli/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",AJ Net News
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
+#EXTINF:-1 group-title="INDIA 3",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
