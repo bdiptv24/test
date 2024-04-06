@@ -46,11 +46,14 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",24x7 Hotstar Series
 https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 1
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 1 (Star Sports1)২
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-XTWy2mPrTzFqjDO5vVPD_i1E7pxmD3FmWhg2LP6lTl3KHcXiZ9aCOse-TOIhsLQwI?ext=.ts
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 2
-http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 2 (T Sports)
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 3 (4K)
+https://toxicify.pro/stalker/jio.m3u8?id=18855&e=.m3u8
 
 
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Live 1
