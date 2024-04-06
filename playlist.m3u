@@ -334,14 +334,20 @@ https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4X49REmFbNx2qFjPCMmiQf9IaT1oiiYGwjg&usqp=CAU",Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv 1
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports (Live Match only)
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv 2
+https://freeiptv25.netlify.app/live/stream_6.m3u8?token=freeiptv25
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 1
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 2
+https://freeiptv25.netlify.app/live/appTsports/index.m3u8?token=freeiptv25
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv (Test)
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
