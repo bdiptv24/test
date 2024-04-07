@@ -101,6 +101,9 @@ https://freeiptv25.netlify.app/live/stream_9.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Live 10
 https://freeiptv25.netlify.app/live/stream_10.m3u8
 
+#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Live 11
+https://freeiptv25.netlify.app/live/stream_11.m3u8
+
 -------
 
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
