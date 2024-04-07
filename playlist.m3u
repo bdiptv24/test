@@ -46,28 +46,28 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv3.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",24x7 Hotstar Series
 https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 1 (Star Sports1)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo=https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1)
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-XTWy2mPrTzFqjDO5vVPD_i1E7pxmD3FmWhg2LP6lTl3KHcXiZ9aCOse-TOIhsLQwI?ext=.ts
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 2 (T Sports)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 2 (T Sports)
 https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 3 (Astro Cricket)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 3 (Astro Cricket)
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 4 (Super Sports)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 4 (Super Sports)
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 5 (Sky Sports)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 5 (Sky Sports)
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 6 (Star Sports)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 6 (Star Sports)
 https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 7 (Star Sports Hindi)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 7 (Star Sports Hindi)
 https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8
 
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",IPL 8 (4K)
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 8 (4K)
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 
 
