@@ -936,6 +936,29 @@ http://watchindia.net:8880/live/83023/62335/2359.m3u8
 #EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="Hindi Backup",Zoom
 http://watchindia.net:8880/live/83023/62335/842.m3u8
 
+#EXTINF:-1 group-title="Bangla Backup" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Welcome Freeiptv25
+https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
+#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="Aakash Aath" tvg-logo="" group-title="Bangla Backup",Aakash Aath
+http://watchindia.net:8880/live/83023/62335/2295.m3u8
+#EXTINF:-1 tvg-id="abpananda.in" tvg-name="ABP Ananda" tvg-logo="" group-title="Bangla Backup",ABP Ananda
+http://watchindia.net:8880/live/83023/62335/2285.m3u8
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla HD" tvg-logo="" group-title="Bangla Backup",Colors Bangla HD
+http://watchindia.net:8880/live/83023/62335/2284.m3u8
+#EXTINF:-1 tvg-id="jalsha.movies.in" tvg-name="Jalsha Movies" tvg-logo="" group-title="Bangla Backup",Jalsha Movies
+http://watchindia.net:8880/live/83023/62335/2282.m3u8
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Bangla Backup",Sangeet Bangla
+http://watchindia.net:8880/live/83023/62335/2288.m3u8
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="Sony Aath" tvg-logo="" group-title="Bangla Backup",Sony Aath
+http://watchindia.net:8880/live/83023/62335/2286.m3u8
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha HD" tvg-logo="" group-title="Bangla Backup",Star Jalsha HD
+http://watchindia.net:8880/live/83023/62335/2281.m3u8
+#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="Sun Bangla" tvg-logo="" group-title="Bangla Backup",Sun Bangla
+http://watchindia.net:8880/live/83023/62335/2290.m3u8
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Bangla Backup",Zee Bangla HD
+http://watchindia.net:8880/live/83023/62335/2283.m3u8
+#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="Bangla Backup",Zee Bangla Cinema
+http://watchindia.net:8880/live/83023/62335/2287.m3u8
+
 #EXTINF:-1 group-title="INDIA 3",9x Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="INDIA 3",9X Tashan
