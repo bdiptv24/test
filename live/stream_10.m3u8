@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5800000,RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
-https://mls3.fancode.com/93985_english_hls_5688ta-di/1080p.m3u8
+https://mls3.fancode.com/96903_english_hls_4658ta-no/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4300000,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
-https://mls3.fancode.com/93985_english_hls_5688ta-di/720p.m3u8
+https://mls3.fancode.com/96903_english_hls_4658ta-no/720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000,RESOLUTION=640x480,CLOSED-CAPTIONS=NONE
-https://mls3.fancode.com/93985_english_hls_5688ta-di/480p.m3u8
+https://mls3.fancode.com/96903_english_hls_4658ta-no/480p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1700000,RESOLUTION=640x360,CLOSED-CAPTIONS=NONE
-https://mls3.fancode.com/93985_english_hls_5688ta-di/360p.m3u8
+https://mls3.fancode.com/96903_english_hls_4658ta-no/360p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1100000,RESOLUTION=256x144,CLOSED-CAPTIONS=NONE
-https://mls3.fancode.com/93985_english_hls_5688ta-di/144p.m3u8
+https://mls3.fancode.com/96903_english_hls_4658ta-no/144p.m3u8
