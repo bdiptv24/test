@@ -198,24 +198,18 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8
 
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
-
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
 #https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://www.mjunoon.tv/uploads/categories/28343f74eeb69ef.png",AL SUNNAH
 #https://edge.taghtia.com/sa/6.m3u8
-
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEh75n2-jXQKA0XKILLHCXeKcxgeb4QKVfw&usqp=CAU",AL QURAN
 #https://edge.taghtia.com/sa/7.m3u8
-
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL Bangla
+http://b1g.ooo/live/Ingrid/Ingrid123/5.ts
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNynmokGI8LYF_sQ8R87qoXWrsAZBzHzGlfw&usqp=CAU",Deen TV UK
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
-
------------
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain",ABP Ananda
 https://freeiptv25.netlify.app/live/bdix/app/AbpAnanda.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://bestmediainfo.com/uploads/2022/10/1666157488.Z24g.jpg",Zee 24 Ghanta
 https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 
@@ -418,6 +412,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://yt3.googleusercontent.com/BlTwBquD1_OTEdhh-GD40uyntWswf0pVbTRix24jirdYAuwimB9xFdazgagnlFKbDjL4-jPrLg=s900-c-k-c0x00ffffff-no-rj",Sony Bbc Earth
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsWUgEw3JJk--B_XKKJN5jUppJthgmmIWOg&usqp=CAU",National Geographic
+http://b1g.ooo/live/Ingrid/Ingrid123/672359.ts
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsWUgEw3JJk--B_XKKJN5jUppJthgmmIWOg&usqp=CAU",National Geographic
 https://freeiptv25.netlify.app/live/bdix/app/NatGeo.m3u8
