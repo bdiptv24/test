@@ -205,7 +205,8 @@ http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEh75n2-jXQKA0XKILLHCXeKcxgeb4QKVfw&usqp=CAU",AL QURAN
 #https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL Bangla
-http://b1g.ooo:80/live/Zaida/Zaida/5.ts
+#http://b1g.ooo:80/live/Zaida/Zaida/5.ts
+https://vsd104.mycdn.me/hls/6430893083338.m3u8/sig/aREdbusYsBw/expires/1713104054916/srcIp/103.25.248.226/urls/45.136.20.84/clientType/36/srcAg/CHROME_ANDROID/mid/7315607603146/6430893083338_high/index.m3u8?p
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNynmokGI8LYF_sQ8R87qoXWrsAZBzHzGlfw&usqp=CAU",Deen TV UK
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain",ABP Ananda
