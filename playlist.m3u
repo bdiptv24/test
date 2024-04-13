@@ -277,6 +277,12 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDADilm4d1r6nvkbO2tnT6K-3NYTj06JGIVBOwxnAIuJ_HCFi9ql_zEYn&s=10" group-title="BANGLA",Bongo Movies
+https://freeiptv25.netlify.app/live/app/Bongo/index.m3u8?token=freeiptv25
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlB4QSuTkQAeY_ZKeeqJrN7SgwyzdYPdztaiA9dgFNpXD-5h0nut02cvQ&s=10" group-title="BANGLA",Ruposhi Bangla
+https://freeiptv25.netlify.app/live/app/Ruposhi/index.m3u8?token=freeiptv25
+
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS324wVJYPcsDgcVnpul8ezWm8PgK68TiJxOd9rpla5cYBd-kmKiG4qE16&s=10",Samay Kolkata
 https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
@@ -502,6 +508,9 @@ https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids Hindi
 https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXIUBkdOplSLFXXbAOSOM0vePTbxuqnwCnGoSgaIoNtR_DqTU3lxGSpa6&s=10" group-title="KIDS",Disney Channel
+https://freeiptv25.netlify.app/live/app/Disney/index.m3u8?token=freeiptv25
 
 #EXTINF:-1 group-title=KIDS" tvg-logo="https://th.bing.com/th/id/OIP.uDRU3SasmxMCKpxE3Roc9gAAAA?w=420&h=235&rs=1&pid=ImgDetMain",Disney XD
 https://freeiptv25.netlify.app/live/bdix/app/DisneyXd.m3u8
