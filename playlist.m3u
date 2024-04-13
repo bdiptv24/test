@@ -216,6 +216,9 @@ https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.i9xEJENAnD3Xp33N0BHMKAAAAA?rs=1&pid=ImgDetMain",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwOx5TU7pdyRikBXuex1FzsGDxD7KAsjrqQ&usqp=CAU",Sananda Tv
+https://fr.tvanondo.online/sananda/video.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBnXeY3x0IQrjBmsaZRuyQhs-d1K2RIBqJg&usqp=CAU",Star Jalsha
 https://freeiptv25.netlify.app/live/app/StarJalsha/index.m3u8?token=freeiptv25
 
