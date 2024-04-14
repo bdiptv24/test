@@ -417,11 +417,11 @@ http://103.107.79.87:8080/CH8110HD05/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/sun-bangla.jpg",Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
-http://opplex.tv:80/live/T4S00515/820172/245906.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/sun-bangla.jpg",Sun Bangla
+http://opplex.tv:8080/live/T4S00515/820172/245906.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/sun-bangla.jpg",Sun Bangla
 http://103.107.79.87:8080/CH8110HD04/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/58bzhFv/SANGEETBANGLA.png",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
@@ -500,19 +500,19 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YamzMIDiwKaO7k4l6v_lrUZm1OyjYoesJg&usqp=CAU",Music India
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/music-india.jpg",Music India
 http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqMdKyFpoMkRWYDmqbbi8O97MrmVA2fbLmw&usqp=CAU",Masti
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/mastiii.jpg",Masti
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nQJ_ckUMRWXVOS8iCKt1cLFNI7PqiPhPQg&usqp=CAU",Epic TV
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/showbox.jpg",Show Box
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcY9Z-XH13nkepeCwHjM7yhswJTeQqA6oMFA&usqp=CAU",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSJPFrHNAsABoBFZaXm4KOC5DIDuA2a8vZw9yuoQg=s900-c-k-c0x00ffffff-no-rj",Zoom
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zoom.jpg",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/sony_bbc_earthhd.jpg",Sony Bbc Earth
@@ -669,13 +669,19 @@ http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplexhd.jpg",Colors Cineplex HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplexhd.jpg",Colors Cineplex HD
+http://xtv.ooo:8080/live/T4S00515/820172/206310.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplexhd.jpg",Colors Cineplex HD
+http://xtv.ooo:8080/live/T4S00515/820172/206315.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/wTd1bJ9B/image-2.jpg",Colors Rishtey
+http://xtv.ooo:8080/live/T4S00515/820172/66188.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors-cineplex-bollywood.jpg",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/goldmines.jpg",Goldmines
+http://xtv.ooo:8080/live/T4S00515/820172/112972.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
@@ -705,12 +711,12 @@ https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU",Tata Sky Bollywood
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU",MTV Beats
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/mtv-beats.jpg",MTV Beats
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&extension=m3u8&play_token=EjRbwmymO9
-
--------
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/b4u-kadak.jpg",B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/b_flix.jpg",B4U Movies
+http://xtv.ooo:8080/live/T4S00515/820172/104201.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/&flix.jpg",& flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 
