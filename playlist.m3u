@@ -675,6 +675,10 @@ http://mag.trexlive.me:80/Michael88/Michael88/280765
 http://opplex.tv:8080/live/T4S00515/820172/66171.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold.jpg",Star Gold
 https://freeiptv25.netlify.app/live/bdix/app/StarGold.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold.jpg",Star Gold
+http://opplex.tv:8080/live/24690084/13468863/66177.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold.jpg",Star Gold
+http://opplex.tv:8080/live/24690084/13468863/112982.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_utsavovies.jpg",Star Utsav Movies
 http://xtv.ooo:8080/live/T4S00515/820172/112971.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star-gold-select.jpg",Star Gold Select
@@ -789,6 +793,8 @@ https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
+http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1
 http://watchindia.net:8880/live/83023/62335/2456.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/starsports1.jpg",Star Sports 1
@@ -796,11 +802,15 @@ http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1Hindi.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 HD
+http://opplex.tv:8080/live/24690084/13468863/109986.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSports2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 1 HD
+http://opplex.tv:8080/live/24690084/13468863/109988.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 2
 http://watchindia.net:8880/live/83023/62335/1069.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsCricket.png",Sky Sports Cricket
