@@ -132,7 +132,7 @@ http://103.120.172.74:5500
 
 
 -------
-#EXTINF:-1 group-title="BANGLA" tvg-logo=" ",Anando TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/anando_tv.jpg",Anando TV
 https://freeiptv25.netlify.app/live/bdix/app/Ananda.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/asian_tv.jpg",Asian Tv
 https://freeiptv25.netlify.app/live/bdix/app/AsianTv.m3u8
@@ -396,7 +396,7 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4X49REmFbNx2qFjPCMmiQf9IaT1oiiYGwjg&usqp=CAU",Peace Tv Bangla
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv 1
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/gazitv.jpg",Gazi Tv 1
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 1
@@ -432,37 +432,37 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSJPFrHNAsABoBFZaXm4KOC5DIDuA2a8vZw9yuoQg=s900-c-k-c0x00ffffff-no-rj",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://yt3.googleusercontent.com/BlTwBquD1_OTEdhh-GD40uyntWswf0pVbTRix24jirdYAuwimB9xFdazgagnlFKbDjL4-jPrLg=s900-c-k-c0x00ffffff-no-rj",Sony Bbc Earth
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/sony_bbc_earthhd.jpg",Sony Bbc Earth
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsWUgEw3JJk--B_XKKJN5jUppJthgmmIWOg&usqp=CAU",National Geo Bangla
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/net_geo_hindihd.jpg",National Geo Bangla
 http://b1g.ooo/Ingrid/Ingrid123/672359
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsWUgEw3JJk--B_XKKJN5jUppJthgmmIWOg&usqp=CAU",National Geographic
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/net_geo_hindihd.jpg",National Geographic
 https://freeiptv25.netlify.app/live/bdix/app/NatGeo.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHdThvTEhl6V2GzU1xC8XOBlvKlW9leqt6w&usqp=CAU",Animal Planet
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/animal_planethd.jpg",Animal Planet
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbsv7k-npTRQaOzwRhXBuhDw13l0dnbThRg&usqp=CAU",DMAX
 https://starplay2.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMWh-t9EfSndnv18Yjdj5ZH-pQ4mY5vfbYA&usqp=CAU",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/discovery_science.jpg",Discovery Science
 https://starplay2.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOAbspk4HhdB343Qo-S_zWFpHu2TwkiovYA&usqp=CAU",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/discovery_turbo.jpg",Discovery Turbo
 https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/03/Discovery-Channel-Logo-Vector.jpg",Investigation Discovery
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/investigation_discovery.jpg",Investigation Discovery
 https://starplay2.netlify.app/m3u/Investigation_Discovery.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg&usqp=CAU",Discovery Bengali
 https://starplay2.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLmFCwirMomyl9HdrQ4_bb3ehhbP6e5OpIg&usqp=CAU",Discovery Hindi
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/discoveryhd.jpg",Discovery Hindi
 https://starplay2.netlify.app/m3u/discoveryhindi.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0I04tLnqs65wKgqBa3b2W26WLMpurbbr4Q&usqp=CAU",TLC
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/tlc_hd.jpg",TLC
 https://starplay2.netlify.app/m3u/TLC.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/aa/75/44aa75ef-34bc-2221-8b3f-6270bd39750d/AppIcon-TRAV-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",TRVL Channel
