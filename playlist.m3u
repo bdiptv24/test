@@ -778,19 +778,16 @@ https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten4.jpg",Sony Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv
 http://176.119.29.52:80/live/00:1A:79:73:AD:03/SN_AE8F6760B7126/98.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sports18.jpg",Sports 18
 https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports_select_1hd.jpg",Star Sports Select 1
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports_select2.jpg",Star Sports Select 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports_select2.jpg",Star Sports Select 2 FHD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2507/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
@@ -1230,3 +1227,196 @@ http://watchindia.net:8880/live/83023/62335/1028.m3u8
 http://watchindia.net:8880/live/83023/62335/1020.m3u8
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="PTV Sports" tvg-logo="" group-title="Urdu",PTV Sports
 http://watchindia.net:8880/live/83023/62335/2325.m3u8
+
+
+
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Welcome Freeiptv25
+https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3047" tvg-logo="http://epg.it999.ru/img2/3047.png" tvg-rec="0",beIN Sports 1 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6123/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3048" tvg-logo="http://epg.it999.ru/img2/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6124/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3049" tvg-logo="http://epg.it999.ru/img2/3049.png" tvg-rec="0",beIN Sports 4 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6125/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3050" tvg-logo="http://epg.it999.ru/img2/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6126/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3051" tvg-logo="http://epg.it999.ru/img2/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6127/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3052" tvg-logo="http://epg.it999.ru/img2/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6128/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-rec="0",beIN Sports 8 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6129/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3055" tvg-logo="http://epg.it999.ru/img2/3055.png" tvg-rec="0",beIN Sports 1 Premium HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6131/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-rec="0",beIN Sports 1 HD EN
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6132/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="5091" tvg-logo="http://epg.it999.ru/img2/5091.png" tvg-rec="0",beIN Sports 2 HD EN
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6133/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="2889" tvg-logo="http://epg.it999.ru/img2/2889.png" tvg-rec="3",BT SPORT 1 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6566/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="2889" tvg-logo="http://epg.it999.ru/img2/2889.png" tvg-rec="3",BT Sport 1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2505/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="2890" tvg-logo="http://epg.it999.ru/img2/2890.png" tvg-rec="3",BT SPORT 2 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6565/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="2890" tvg-logo="http://epg.it999.ru/img2/2890.png" tvg-rec="3",BT Sport 2 UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2506/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3560" tvg-logo="http://epg.it999.ru/img2/3560.png" tvg-rec="3",BT SPORT 3 FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6564/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3559" tvg-logo="http://epg.it999.ru/img2/3559.png" tvg-rec="3",BT SPORT ESPN FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6563/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3553" tvg-logo="http://epg.it999.ru/img2/3553.png" tvg-rec="3",PREMIER SPORTS UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6555/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3554" tvg-logo="http://epg.it999.ru/img2/3554.png" tvg-rec="3",EUROSPORT 2 HD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6556/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4569" tvg-logo="http://epg.it999.ru/img2/4569.png" tvg-rec="0",SKY SPORTS PREMIER LEAGUE UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7335/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4570" tvg-logo="http://epg.it999.ru/img2/4570.png" tvg-rec="0",SKY SPORTS FOOTBALL UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7336/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4571" tvg-logo="http://epg.it999.ru/img2/4571.png" tvg-rec="0",SKY SPORTS MAIN EVENT UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7337/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4572" tvg-logo="http://epg.it999.ru/img2/4572.png" tvg-rec="0",SKY SPORTS ARENA UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7338/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4573" tvg-logo="http://epg.it999.ru/img2/4573.png" tvg-rec="0",SKY SPORTS MIX UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7339/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4579" tvg-logo="http://epg.it999.ru/img2/4579.png" tvg-rec="0",Sky Sports Action HD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7340/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4575" tvg-logo="http://epg.it999.ru/img2/4575.png" tvg-rec="0",SKY SPORTS RACING UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7341/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4576" tvg-logo="http://epg.it999.ru/img2/4576.png" tvg-rec="0",SKY SPORTS F1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7342/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4577" tvg-logo="http://epg.it999.ru/img2/4577.png" tvg-rec="0",SKY SPORTS CRICKET UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7343/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4578" tvg-logo="http://epg.it999.ru/img2/4578.png" tvg-rec="0",SKY SPORTS GOLF UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7344/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4579" tvg-logo="http://epg.it999.ru/img2/4579.png" tvg-rec="0",Sky Sports Action FHD UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7345/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="4675" tvg-logo="http://epg.it999.ru/img2/4675.png" tvg-rec="7",MUTV UK
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/10078/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS" tvg-id="3553" tvg-logo="http://epg.it999.ru/img2/3553.png" tvg-rec="0",UK Premier Sports 1 SD IE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/12284/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6485" tvg-logo="http://epg.it999.ru/img2/6485.png" tvg-rec="0",Sport Digital HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19026/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2878" tvg-logo="http://epg.it999.ru/img2/2878.png" tvg-rec="0",sky Sport 1 FHD DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19027/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2878" tvg-logo="http://epg.it999.ru/img2/2878.png" tvg-rec="0",sky Sport 1 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19028/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2879" tvg-logo="http://epg.it999.ru/img2/2879.png" tvg-rec="0",sky Sport 2 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19029/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6489" tvg-logo="http://epg.it999.ru/img2/6489.png" tvg-rec="0",sky Sport 3 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19030/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6490" tvg-logo="http://epg.it999.ru/img2/6490.png" tvg-rec="0",sky Sport 4 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19031/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6491" tvg-logo="http://epg.it999.ru/img2/6491.png" tvg-rec="0",sky Sport 5 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19032/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6492" tvg-logo="http://epg.it999.ru/img2/6492.png" tvg-rec="0",sky Sport 6 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19033/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6493" tvg-logo="http://epg.it999.ru/img2/6493.png" tvg-rec="0",sky Sport 7 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19034/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6494" tvg-logo="http://epg.it999.ru/img2/6494.png" tvg-rec="0",sky Sport 8 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19035/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6495" tvg-logo="http://epg.it999.ru/img2/6495.png" tvg-rec="0",sky Sport 9 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19036/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6496" tvg-logo="http://epg.it999.ru/img2/6496.png" tvg-rec="0",sky Sport 10 DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19037/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6497" tvg-logo="http://epg.it999.ru/img2/6497.png" tvg-rec="0",sky Sport Austria 4 HD (ONLY ON MATCH DAYS)
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19038/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6498" tvg-logo="http://epg.it999.ru/img2/6498.png" tvg-rec="0",Eurosport360 1 HD DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19039/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6499" tvg-logo="http://epg.it999.ru/img2/6499.png" tvg-rec="0",Eurosport360 2 HD DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19040/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2878" tvg-logo="http://epg.it999.ru/img2/2878.png" tvg-rec="0",Sky Sport FHD DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19041/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2878" tvg-logo="http://epg.it999.ru/img2/2878.png" tvg-rec="0",Sky Sport UHD DE
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19044/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6504" tvg-logo="http://epg.it999.ru/img2/6504.png" tvg-rec="0",TNT SPORTS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19051/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6505" tvg-logo="http://epg.it999.ru/img2/6505.png" tvg-rec="0",TNT SPORTS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19052/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6506" tvg-logo="http://epg.it999.ru/img2/6506.png" tvg-rec="0",TNT SPORTS 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19053/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6507" tvg-logo="http://epg.it999.ru/img2/6507.png" tvg-rec="0",TNT SPORTS 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19054/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6508" tvg-logo="http://epg.it999.ru/img2/6508.png" tvg-rec="0",TNT SPORTS 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19055/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6509" tvg-logo="http://epg.it999.ru/img2/6509.png" tvg-rec="0",ESPN HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19056/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6509" tvg-logo="http://epg.it999.ru/img2/6509.png" tvg-rec="0",ESPN HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19061/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6511" tvg-logo="http://epg.it999.ru/img2/6511.png" tvg-rec="0",ESPN2 HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19058/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6510" tvg-logo="http://epg.it999.ru/img2/6510.png" tvg-rec="0",ESPN EXTRA HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19057/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6513" tvg-logo="http://epg.it999.ru/img2/6513.png" tvg-rec="0",ESPN BRASIL HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19059/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6513" tvg-logo="http://epg.it999.ru/img2/6513.png" tvg-rec="0",ESPN Brasil
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19060/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="3880" tvg-logo="http://epg.it999.ru/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19062/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6519" tvg-logo="http://epg.it999.ru/img2/6519.png" tvg-rec="0",beIN Sports Max 2 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19063/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="2618" tvg-logo="http://epg.it999.ru/img2/2618.png" tvg-rec="0",beIN Sports Haber HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19064/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="3880" tvg-logo="http://epg.it999.ru/img2/3880.png" tvg-rec="0",beIN Sports Max 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19065/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6519" tvg-logo="http://epg.it999.ru/img2/6519.png" tvg-rec="0",beIN Sports Max 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19066/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6525" tvg-logo="http://epg.it999.ru/img2/6525.png" tvg-rec="0",TRT SPOR HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19067/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6521" tvg-logo="http://epg.it999.ru/img2/6521.png" tvg-rec="0",TRT SPOR 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19068/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6522" tvg-logo="http://epg.it999.ru/img2/6522.png" tvg-rec="0",A SPOR HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19069/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6523" tvg-logo="http://epg.it999.ru/img2/6523.png" tvg-rec="0",S SPORT + PLUS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19070/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6524" tvg-logo="http://epg.it999.ru/img2/6524.png" tvg-rec="0",S SPORT + PLUS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19071/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6525" tvg-logo="http://epg.it999.ru/img2/6525.png" tvg-rec="0",TRT SPOR
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19072/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6526" tvg-logo="http://epg.it999.ru/img2/6526.png" tvg-rec="0",SPOR SMART 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19073/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6527" tvg-logo="http://epg.it999.ru/img2/6527.png" tvg-rec="0",TiViBUSPOR 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19074/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6528" tvg-logo="http://epg.it999.ru/img2/6528.png" tvg-rec="0",TiViBUSPOR 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19075/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6529" tvg-logo="http://epg.it999.ru/img2/6529.png" tvg-rec="0",TiViBUSPOR 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19076/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6532" tvg-logo="http://epg.it999.ru/img2/6532.png" tvg-rec="0",Sky Sport Serie A
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19104/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6535" tvg-logo="http://epg.it999.ru/img2/6535.png" tvg-rec="0",SportItalia Live 24 HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19107/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6536" tvg-logo="http://epg.it999.ru/img2/6536.png" tvg-rec="0",SportItalia Plus HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19108/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6537" tvg-logo="http://epg.it999.ru/img2/6537.png" tvg-rec="0",SportItalia Solo Calcio HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19109/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6538" tvg-logo="http://epg.it999.ru/img2/6538.png" tvg-rec="0",SportItalia Motori HD
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19110/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6539" tvg-logo="http://epg.it999.ru/img2/6539.png" tvg-rec="0",SKY SUPER TENNIS
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19111/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6540" tvg-logo="http://epg.it999.ru/img2/6540.png" tvg-rec="0",Sport2U Tv
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19112/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6541" tvg-logo="http://epg.it999.ru/img2/6541.png" tvg-rec="0",Sport Tv Pistoia
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19113/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6543" tvg-logo="http://epg.it999.ru/img2/6543.png" tvg-rec="0",Eurosport 1 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19115/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6544" tvg-logo="http://epg.it999.ru/img2/6544.png" tvg-rec="0",Eurosport 2 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19116/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6545" tvg-logo="http://epg.it999.ru/img2/6545.png" tvg-rec="0",RTV Sport (San Marino)
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19117/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6555" tvg-logo="http://epg.it999.ru/img2/6555.png" tvg-rec="0",SKY SPORT 24
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19127/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6556" tvg-logo="http://epg.it999.ru/img2/6556.png" tvg-rec="0",SKY SPORT ARENA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19128/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6557" tvg-logo="http://epg.it999.ru/img2/6557.png" tvg-rec="0",SKY SPORT CALCIO
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19129/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6558" tvg-logo="http://epg.it999.ru/img2/6558.png" tvg-rec="0",SKY SPORT COLLECTION
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19130/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6559" tvg-logo="http://epg.it999.ru/img2/6559.png" tvg-rec="0",SKY SPORT FOOTBALL
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19131/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6560" tvg-logo="http://epg.it999.ru/img2/6560.png" tvg-rec="0",SKY SPORT GOLF
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19132/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6561" tvg-logo="http://epg.it999.ru/img2/6561.png" tvg-rec="0",SKY SPORT MOTOGP
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19133/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6562" tvg-logo="http://epg.it999.ru/img2/6562.png" tvg-rec="0",SKY SPORT NBA
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19134/index.m3u8
+#EXTINF:0 group-title="VIP SPORTS‚" tvg-id="6539" tvg-logo="http://epg.it999.ru/img2/6539.png" tvg-rec="0",SKY SUPER TENNIS
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/19136/index.m3u8
