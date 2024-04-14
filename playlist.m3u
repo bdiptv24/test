@@ -789,9 +789,9 @@ https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1
 http://watchindia.net:8880/live/83023/62335/2456.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/starsports1.jpg",Star Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/starsports1.jpg",Star Sports 1
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
