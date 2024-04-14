@@ -564,10 +564,10 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nick Hindi
 https://freeiptv25.netlify.app/live/bdix/app/NickHindi.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://freeiptv25.netlify.app/images/discovery_kids.jpg",Discovery Kids
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids Hindi
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://freeiptv25.netlify.app/images/discovery_kids.jpg",Discovery Kids Hindi
 https://starplay2.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXIUBkdOplSLFXXbAOSOM0vePTbxuqnwCnGoSgaIoNtR_DqTU3lxGSpa6&s=10" group-title="KIDS",Disney Channel
@@ -598,6 +598,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/66173.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/&tvhd.jpg",& TV HD
 http://xtv.ooo:8080/live/T4S00515/820172/66172.m3u8
 
+
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a-AhCnvLeU02Os-RQ7zaN19kWdXgImTyJQ&usqp=CAU",Zee Talkies HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 
@@ -624,6 +625,8 @@ http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/goldmines.jpg",Goldmines
 http://xtv.ooo:8080/live/T4S00515/820172/112972.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://freeiptv25.netlify.app/images/goldmines_bollywood.jpg",Goldmines Bollywood
+http://xtv.ooo:8080/live/T4S00515/820172/112973.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
@@ -632,25 +635,68 @@ https://freeiptv25.netlify.app/live/bdix/app/&Pictures.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max
+http://mag.trexlive.me:80/live/Michael88/Michael88/163523.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max
+http://89.187.177.137:8081/SONYMAX/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max HD
+http://103.107.79.87:8080/CH8108HD08/video.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max HD
+http://opplex.tv:8080/live/T4S00515/820172/66180.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://freeiptv25.netlify.app/images/sony_wah.jpg",Sony Wah
+http://opplex.tv:8080/live/T4S00515/820172/112979.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://freeiptv25.netlify.app/images/sony_wah.jpg",Sony Wah
+http://mag.trexlive.me:80/live/Michael88/Michael88/156039.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max2.jpg",Sony Max 2
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax2.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max2.jpg",Sony Max 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_pal.jpg",Sony Pal
+http://opplex.tv:8080/T4S00515/820172/104192
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_sabhd.jpg",Sony Sab
+http://mag.trexlive.me:80/live/Michael88/Michael88/42460.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_sabhd.jpg",Sony Sab HD
+http://opplex.tv:8080/live/T4S00515/820172/221256.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_sabhd.jpg",Sony Sab HD
+http://v:8080/live/T4S00515/820172/104194.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_sabhd.jpg",Sony Sab HD
+http://opplex.tv:8080/T4S00515/820172/66174.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_plushd.jpg",Star Plus
 https://freeiptv25.netlify.app/live/bdix/app/StarPlus.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_plushd.jpg",Star Plus HD
+http://xtv.ooo:8080/live/T4S00515/820172/221252.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_plushd.jpg",Star Plus HD
+http://148.113.5.31:8106/play/a00i/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_bharathd.jpg",Star Bharat
+http://opplex.tv:8080/live/T4S00515/820172/109951.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_bharathd.jpg",Star Bharat HD
+http://mag.trexlive.me:80/Michael88/Michael88/280765
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_bharathd.jpg",Star Bharat HD
+http://opplex.tv:8080/live/T4S00515/820172/66171.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold.jpg",Star Gold
 https://freeiptv25.netlify.app/live/bdix/app/StarGold.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_utsavovies.jpg",Star Utsav Movies
+http://xtv.ooo:8080/live/T4S00515/820172/112971.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star-gold-select.jpg",Star Gold Select
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldSelect.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star-gold-select.jpg",Star Gold Select 
+http://xtv.ooo:8080/live/T4S00515/820172/109960.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star-gold-select.jpg",Star Gold Select HD
+http://xtv.ooo:8080/live/T4S00515/820172/66176.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_tv.jpg",Zee TV HD
+http://103.107.79.87:8080/CH8108HD07/video.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_cinemahd.jpg",Zee Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_cinemahd.jpg",Zee Cinema HD
+http://103.107.79.87:8080/CH8109HD02/video.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_cinemahd.jpg",Zee Cinema HD
+http://xtv.ooo:8080/T4S00515/820172/109958
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_cinemahd.jpg",Zee Cinema HD
+http://xtv.ooo:8080/T4S00515/820172/206308
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_action.jpg",Zee Action
 https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/utv-hd.jpg",UTV Movies HD
+http://103.107.79.87:8080/CH8109HD05/video.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU",Tata Sky Bollywood
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/mtv-beats.jpg",MTV Beats
