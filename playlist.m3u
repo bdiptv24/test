@@ -234,9 +234,9 @@ https://freeiptv25.netlify.app/live/bdix/app/Jamuna.m3u8
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mohona-tv.jpg",Mohona Tv
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mtv.jpg",MY tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/my_tv_hd.jpg",MY tv
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mtv.jpg",MY TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/my_tv_hd.jpg",MY TV
 https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga TV
