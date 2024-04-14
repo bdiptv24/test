@@ -576,13 +576,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 -------
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplex.jpg",Colors Cineplex
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",COLORS CINEPLEX HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplexhd.jpg",Colors Cineplex HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg",Colors Cineplex Superhit
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/colors-cineplex-bollywood.jpg",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain",Manoranjan Movies
@@ -591,28 +591,28 @@ http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png",Star Maa HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZSAximbHRffyuNWdStsIRkrHJdbh-QPEe5rBTxL_mg&s",&Pictures
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/&pictureshd.jpg",&Pictures
 https://freeiptv25.netlify.app/live/bdix/app/&Pictures.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/blt60aedf8adfec6f95/64085afee9f75310481c3e81/download",Sony Max
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max.jpg",Sony Max
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmP0SXNBMkQH8oux_JJlyTWgcMae8BULC99TL8ZlN9TCUhXjkfAYMdDzH&s=10",Sony Max 2
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/sony_max2.jpg",Sony Max 2
 https://freeiptv25.netlify.app/live/bdix/app/SonyMax2.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/dTXsoAPnQ3rEkf7Mw8CTbH3wvnnhCzdahQU_HLgYNbH_dV5Sn_ql-gK_Sv1gpIqcMZmxEmkFmQ=s900-c-k-c0x00ffffff-no-rj",Star Plus
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_plushd.jpg",Star Plus
 https://freeiptv25.netlify.app/live/bdix/app/StarPlus.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYx6uyjKvCMsXVrL28D74_Omj8cRfbb0DZ2XSF6mwEk2xAbLyA28yvDu8&s=10",Star Gold
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold.jpg",Star Gold
 https://freeiptv25.netlify.app/live/bdix/app/StarGold.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dBdps4z2looUCF8Wc-Jp3Lejfd_3aRejP_I-pit4m-76bGu9GwnOs4Q&s=10",Star Gold Select
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star-gold-select.jpg",Star Gold Select
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldSelect.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_4eUY0_anWbrNPylxM_3i1j3044SmwfU1a-Qe3_8UmaZ8AicNf90tPs&s=10",Zee Cinema
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_cinemahd.jpg",Zee Cinema
 https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4njBDG_rN5LCXkuOdGmdkp0xPAVHGGBGeH_a_Hat3Q&s",Zee Action
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/zee_action.jpg",Zee Action
 https://freeiptv25.netlify.app/live/bdix/app/ZeeAction.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU",Tata Sky Bollywood
@@ -623,10 +623,13 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&exte
 
 -------
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KwjrDpu0xVicyCHmjRkOA5yCO154ymzFRigwATWC9mzdswLdwSn1SQs&s=10",& flix HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/&flix.jpg",& flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.xS-9n9UYKcs_TKeZvN_vLQHaEn?rs=1&pid=ImgDetMain",& prive HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/&flix.jpg",&flix
+https://freeiptv25.netlify.app/live/bdix/app/&flix.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/&privehd.jpg",& prive HD
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.JJsCbCPprY0rC537YfWxBAHaE8?rs=1&pid=ImgDetMain",Movies Share
@@ -638,28 +641,26 @@ http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nWcRVplM0m0NHBYGpaQoiqL8msIWBrWQ4A&usqp=CAU",Movies Now
+#EXTINF:-1 group-title="MOVIES" tvg-logo="images/movies-now.jpg",Movies Now
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=156022&extension=m3u8&play_token=SNQp9DSbyI
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLny2XrREoH_bIpFgzVqP5mJo0yWmIgxaYpg1MPZL-WdoP6FTcDr0rozs&s=10",Star Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/star-movies.jpg",Star Movies
 https://freeiptv25.netlify.app/live/bdix/app/StarMovies.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLny2XrREoH_bIpFgzVqP5mJo0yWmIgxaYpg1MPZL-WdoP6FTcDr0rozs&s=10",Star Movies HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/star-movies.jpg",Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrmCKMbpBamG34_3nwXgdKFNBZWecphIdVg&usqp=CAU",Sony Pix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/sony-pix.jpg",Sony Pix
 https://freeiptv25.netlify.app/live/bdix/app/SonyPix.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrmCKMbpBamG34_3nwXgdKFNBZWecphIdVg&usqp=CAU",Sony Pix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://freeiptv25.netlify.app/images/sony-pix.jpg",Sony Pix
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282631&extension=m3u8&play_token=8elHzUlVi6
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KwjrDpu0xVicyCHmjRkOA5yCO154ymzFRigwATWC9mzdswLdwSn1SQs&s=10",&flix
-https://freeiptv25.netlify.app/live/bdix/app/&flix.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/_FS_nI0XiLtcGZvdzA6YhLF9nUW7_F8c6TkK9YOlC1lfvVykFJJxx58ths3_NJ1_GjSGDul-hPc=s900-c-k-c0x00ffffff-no-rj",Star Gold Romanc
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold_romance.jpg",Star Gold Romanc
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldRomanc.m3u8
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SpeMvAqCHo78nrLDP5JfWKPaEKgZs_u1dMzRtzDMOq0oeEX1ov0qCIXi&s=10",Star Gold Thrills
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/star_gold_thrills.jpg",Star Gold Thrills
 https://freeiptv25.netlify.app/live/bdix/app/StarGoldThrills.m3u8
 
 -------
