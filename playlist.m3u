@@ -255,55 +255,87 @@ http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 https://tv5.hoichoi24.com/1102/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/gazitv.jpg",Gazi Tv 1
 http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent Tv
 https://freeiptv25.netlify.app/live/bdix/app/Independent.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent TV [Jagobd]
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent Tv
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent TV [Palki]
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent Tv
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent TV [Youtube]
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent Tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/jamuna-news.jpg",Jamuna Tv
 https://freeiptv25.netlify.app/live/bdix/app/Jamuna.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/jamuna-news.jpg",Jamuna TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/jamuna-news.jpg",Jamuna TV 
+http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mohona-tv.jpg",Mohona TV
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mohona-tv.jpg",Mohona Tv
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/mohona-tv.jpg",Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/my_tv_hd.jpg",MY tv
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/my_tv_hd.jpg",MY TV
 https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga TV
-#https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga HD
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga HD
+https://tv5.hoichoi24.com/1122/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg",Maasranga HD
 https://freeiptv25.netlify.app/live/bdix/app/MaasrangaHD.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News24
 https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News 24
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News 24
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/ntv.jpg",NTV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/ntv.jpg",NTV HD
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/ntv.jpg",NTV
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/ntv.jpg",NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/nexus-tv.jpg",Nexus tv
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/nexus-tv.jpg",Nexus
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/nexus-tv.jpg",Nexus TV
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCneK3J8FQn9Z_5OtqeaBJndKT1Fiv5E9_xxHhq9YEMDYj-OWt7XKHd8&s=10",RTV FHD
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ65gQ9UxD2Q0zufTo9_R6onjK0_J_jQzx3w&usqp=CAU",Rtv
 https://freeiptv25.netlify.app/live/bdix/app/Rtv.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ65gQ9UxD2Q0zufTo9_R6onjK0_J_jQzx3w&usqp=CAU",RTV FHD
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ65gQ9UxD2Q0zufTo9_R6onjK0_J_jQzx3w&usqp=CAU",RTV HD
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXZk0llNgYJsgmYdj__-B3_EXoAfyyOf41Q&usqp=CAU",Rtv Music
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/satv.jpg",SATV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/satv.jpg",SA TV
+http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/satv.jpg",SaTv
 https://freeiptv25.netlify.app/live/bdix/app/SaTv.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy Tv
 https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy TV
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy Tv 2
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/115.m3u8
 
@@ -315,7 +347,10 @@ http://208.86.19.13:81/519.stream/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain",ABP Ananda
 https://freeiptv25.netlify.app/live/bdix/app/AbpAnanda.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain",ABP Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/akkash-aath.jpg",Akash Aath
+http://mag.trexlive.me/Michael88/Michael88/282065
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/dd_national.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/",Zee 24 Ghanta
@@ -341,13 +376,17 @@ http://176.119.29.52/live/00:1A:79:FD:9B:41/D0EA41E1A7E7F/116.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/sony_aath.jpg",Sony Aath
 https://freeiptv25.netlify.app/live/bdix/app/SonyAath.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/sony_aath.jpg",Sony Aath
+http://103.107.79.87:8080/CH8110HD06/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/zee-bangla.jpg",Zee Bangla
 https://freeiptv25.netlify.app/live/app/Zeebangla/index.m3u8?token=freeiptv25
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/zee-bangla.jpg",Zee Bangla HD
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",ZEE Bangla HD
+http://103.107.79.87:8080/CH8110HD03/video.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",ZEE Bangla HD
+https://tv5.hoichoi24.com/1405/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",Zee Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaHD.m3u8
 
@@ -366,16 +405,24 @@ https://freeiptv25.netlify.app/live/bdix/app/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xYcNxkz/JALSHAMOVIES.png",Jalsha Movies VIP
 http://176.119.29.52/live/00:1A:79:FD:9B:41/D0EA41E1A7E7F/117.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla FHD
 https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
+https://tv5.hoichoi24.com/1404/video.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
+http://mag.trexlive.me:80/live/Michael88/Michael88/225740.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla HD
+http://103.107.79.87:8080/CH8110HD05/video.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
+http://opplex.tv:80/live/T4S00515/820172/245906.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
+http://103.107.79.87:8080/CH8110HD04/video.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/58bzhFv/SANGEETBANGLA.png",Sangeet Bangla
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
@@ -546,7 +593,12 @@ https://freeiptv25.netlify.app/live/bdix/app/CN.m3u8
 
 
 -----------
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/&tvhd.jpg",& TV HD
+http://xtv.ooo:8080/T4S00515/820172/109952
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/&tvhd.jpg",& TV HD
+http://xtv.ooo:8080/T4S00515/820172/66173
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://freeiptv25.netlify.app/images/&tvhd.jpg",& TV HD
+http://xtv.ooo:8080/T4S00515/820172/66172
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDB6WILT1pg2pWpWadBahaRLgeoLRL8ZxGjx78tBBWqrDX91mQ9RwQof_&s=10",& TV
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 
