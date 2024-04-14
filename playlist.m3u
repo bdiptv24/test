@@ -185,7 +185,8 @@ https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/channel_i.jpg",Channel i
 https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.channelionline.com/wp-content/uploads/2021/08/channel-i-logo-HD.jpg",Channel I
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMH1Zq96OMlEslTSSHSttXfJquwQf0NZtig&usqp=CAU",Desh Tv
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
@@ -217,8 +218,10 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/ekushey-tv.jpg",Ekushey Tv
 https://freeiptv25.netlify.app/live/bdix/app/EkusheyTv.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.channelionline.com/wp-content/uploads/2021/08/channel-i-logo-HD.jpg",Channel I
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/independent_news.jpg",Independent
 https://freeiptv25.netlify.app/live/bdix/app/Independent.m3u8
@@ -261,10 +264,10 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/satv.jpg",SaTv
 https://freeiptv25.netlify.app/live/bdix/app/SaTv.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa_56nBpu0N4h4qa994H6dowvSUv9caIA6Q&usqp=CAU",Somoy Tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy Tv
 https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXa_56nBpu0N4h4qa994H6dowvSUv9caIA6Q&usqp=CAU",Somoy Tv 2
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/somoy-tv.jpg",Somoy Tv 2
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/115.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",Sangsad Tv
@@ -273,52 +276,13 @@ http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/channel_s.jpg",CHANNEL S HD
 http://208.86.19.13:81/519.stream/index.m3u8
 
-
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoVW7j_ID5W77ltkVDsdRaRbtjP93n4JDgg&usqp=CAU",TBN 24 USA
-https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",Iqra Bangla
-https://freeiptv25.netlify.app/live/bdix/app/IqraBangla.m3u8
-
-
-
-
-
-
-
-
- ---------
-
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlkKBEe7FvG7FyZnqFveLnlcLrK0hmaJqPQ&usqp=CAU",Madina Tv
-#https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmssJ9YwNmlZuStrxoxK-tHOC3HE3vr4vZUQ&usqp=CAU",Makkah Tv
-#https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
-http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
-#https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://www.mjunoon.tv/uploads/categories/28343f74eeb69ef.png",AL SUNNAH
-#https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEh75n2-jXQKA0XKILLHCXeKcxgeb4QKVfw&usqp=CAU",AL QURAN
-#https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL Bangla
-#http://b1g.ooo:80/live/Zaida/Zaida/5.ts
-https://vsd104.mycdn.me/hls/6430893083338.m3u8/sig/aREdbusYsBw/expires/1713104054916/srcIp/103.25.248.226/urls/45.136.20.84/clientType/36/srcAg/CHROME_ANDROID/mid/7315607603146/6430893083338_high/index.m3u8?p
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNynmokGI8LYF_sQ8R87qoXWrsAZBzHzGlfw&usqp=CAU",Deen TV UK
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://th.bing.com/th/id/OIP.5UCsWYUfibMqhyihsIad-QAAAA?rs=1&pid=ImgDetMain",ABP Ananda
 https://freeiptv25.netlify.app/live/bdix/app/AbpAnanda.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/",Zee 24 Ghanta
-https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/dd_national.jpg",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/",Zee 24 Ghanta
+https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwOx5TU7pdyRikBXuex1FzsGDxD7KAsjrqQ&usqp=CAU",Sananda Tv
 https://fr.tvanondo.online/sananda/video.m3u8
@@ -347,7 +311,6 @@ https://freeiptv25.netlify.app/live/app/Zeebangla/index.m3u8?token=freeiptv25
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freeiptv25.netlify.app/images/zee-bangla.jpg",Zee Bangla HD
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xJ1TtLJ/ZEEBANGLA.jpg",Zee Bangla
 https://freeiptv25.netlify.app/live/bdix/app/ZeeBanglaHD.m3u8
 
@@ -373,28 +336,11 @@ https://freeiptv25.netlify.app/live/bdix/app/ColorsBangla.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU",Khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyJ3v0UAXynvqEz8qZxevIKq97ZvOwxGiUQ&usqp=CAU",Sun Bangla
 https://freeiptv25.netlify.app/live/bdix/app/SunBangla.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/58bzhFv/SANGEETBANGLA.png",Sangeet Bangla
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",Sun Bangla Cinema
@@ -405,11 +351,6 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg&usqp=CAU",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
---------------------
-
-
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpSLt2AgQXK5nQnoXVBgrVBx_Gj73qAo9Ng&usqp=CAU",Movie Bangla
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
@@ -430,9 +371,27 @@ https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/WpgvGbFD/Tarabc.jpg",Tara Bangla Cinema
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoVW7j_ID5W77ltkVDsdRaRbtjP93n4JDgg&usqp=CAU",TBN 24 USA
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",Iqra Bangla
+https://freeiptv25.netlify.app/live/bdix/app/IqraBangla.m3u8
 
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlkKBEe7FvG7FyZnqFveLnlcLrK0hmaJqPQ&usqp=CAU",Madina Tv
+https://livess.ncare.live/live-orgin/madina.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmssJ9YwNmlZuStrxoxK-tHOC3HE3vr4vZUQ&usqp=CAU",Makkah Tv
+https://livess.ncare.live/live-orgin/makkahtv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL Bangla
+#http://b1g.ooo:80/live/Zaida/Zaida/5.ts
+https://vsd104.mycdn.me/hls/6430893083338.m3u8/sig/aREdbusYsBw/expires/1713104054916/srcIp/103.25.248.226/urls/45.136.20.84/clientType/36/srcAg/CHROME_ANDROID/mid/7315607603146/6430893083338_high/index.m3u8?p
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNynmokGI8LYF_sQ8R87qoXWrsAZBzHzGlfw&usqp=CAU",Deen TV UK
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4X49REmFbNx2qFjPCMmiQf9IaT1oiiYGwjg&usqp=CAU",Peace Tv Bangla
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
@@ -448,20 +407,6 @@ http://176.119.29.52/live/00:1A:79:FD:9B:41/D0EA41E1A7E7F/48010.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 3
 https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv (Test)
-#https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-
-
-
-
-
-
-
--------
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/58bzhFv/SANGEETBANGLA.png",Sangeet Bangla
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",Sangeet Bhojpuri
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBhojpuri/playlist.m3u8
@@ -486,9 +431,6 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSJPFrHNAsABoBFZaXm4KOC5DIDuA2a8vZw9yuoQg=s900-c-k-c0x00ffffff-no-rj",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
-
--------
-
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://yt3.googleusercontent.com/BlTwBquD1_OTEdhh-GD40uyntWswf0pVbTRix24jirdYAuwimB9xFdazgagnlFKbDjL4-jPrLg=s900-c-k-c0x00ffffff-no-rj",Sony Bbc Earth
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
