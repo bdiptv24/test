@@ -754,54 +754,55 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://itfuns.net/wp-content/uploads/2021/10/A-Sports-Watch-Live-TV-Channels.jpg",Asports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/A_sportshd.jpg",Asports
 https://freeiptv25.netlify.app/live/bdix/app/Asports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sports.ptv.com.pk/user/assets/images/logosarchive/ptvsports2021.jpg",Ptv Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/ptv_sports.jpg",Ptv Sports
 https://freeiptv25.netlify.app/live/bdix/app/PtvSports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.uApCHgSSGvn-dCto91PxLAAAAA?w=404&h=316&rs=1&pid=ImgDetMain",Sony Liv
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten5.jpg",Sony Sports 5
 http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-1.jpg",Sony Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten1.jpg",Sony Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/sony-ten-2-hd.png",Sony Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten2.jpg",Sony Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/SonySports2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-5.jpg",Sony Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten3.jpg",Sony Sports 3
 https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/logo-adapt-pages/SONY%20SPORTS%20TEN%204.jpg",Sony Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sony_ten4.jpg",Sony Sports 4
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv
 http://176.119.29.52:80/live/00:1A:79:73:AD:03/SN_AE8F6760B7126/98.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtmrBgqgQAEma6QZg4OuWD1SGoJDP9AAzpA&usqp=CAU",Sports 18
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/sports18.jpg",Sports 18
 https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h",Star Sports Select 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports_select_1hd.jpg",Star Sports Select 1
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLOuuDUmW5AvMoRZaPxabtevARZ_4jAJO5g&usqp=CAU",Star Sports Select 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports_select2.jpg",Star Sports Select 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.mspimages.in/gear/wp-content/uploads/2023/03/Star_Sports_1_HD.jpg",Star Sports 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxD3KbpYDVpxp5IOLtGsffr2xo6AVwCkBTqw&usqp=CAU",Star Sports 1 VIP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 1
+http://watchindia.net:8880/live/83023/62335/2456.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/starsports1.jpg",Star Sports 1
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/12/star-sports.jpg",Star Sports 1 Hindi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
 https://freeiptv25.netlify.app/live/bdix/app/StarSports1Hindi.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/12/star-sports.jpg",Star Sports 1 Hindi VIP
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KFb9tkYDN2XvliONAepep7UvNVDqCaVHLw&usqp=CAU",Star Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSports2.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://freeiptv25.netlify.app/images/star_sports2.jpg",Star Sports 2
+http://watchindia.net:8880/live/83023/62335/1069.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvs1.netlify.app/assets/images/SkySportsCricket.png",Sky Sports Cricket
 https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
 
