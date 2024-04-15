@@ -4,10 +4,16 @@
 #EXTINF:-1 group-title="Freeiptv25" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Welcome Freeiptv25
 https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
 
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_psg_v_barcelona_45sec_app.png?h=394&w=708&q=high",FCB v/s PSG
+#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_psg_v_barcelona_45sec_app.png?h=394&w=708&q=high",FCB vs PSG
 https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
 
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_atleticomadrid_v_dortmund_45sec_app.png?h=394&w=708&q=high",ATM v/s BVB
+#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_atleticomadrid_v_dortmund_45sec_app.png?h=394&w=708&q=high",ATM vs BVB
+https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
+
+#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_realmadrid_v_mancity_45sec_app.png?h=394&w=708&q=high",RMA vs ManCity FC
+https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
+
+#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_arsenal_v_bayern_45sec_app.png?h=394&w=708&q=high",Arsenal FC vs FC Bayern
 https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/cxZ0WNg/Kacher-Manush-Dure-Thuiya-2024-Bengali-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",Kacher Manush Dure Thuiya 2024
