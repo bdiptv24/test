@@ -45,6 +45,10 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7m2.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/24x7m3.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 4
 https://freeiptv25.netlify.app/live/bdix/app/24x7m4.m3u8
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 5
+https://freeiptv25.netlify.app/live/bdix/app/24x7m5.m3u8
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 6
+https://freeiptv25.netlify.app/live/bdix/app/24x7m6.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/rFhtLM6/Freeiptv25-Movie.png",24x7 Movie 1
 https://freeiptv25.netlify.app/live/bdix/app/24x7mv1.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/rFhtLM6/Freeiptv25-Movie.png",24x7 Movie 2
@@ -63,6 +67,10 @@ https://freeiptv25.netlify.app/live/bdix/app/24x7mv7.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/24x7hot.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/kXbhL95/Freeiptv25-Zee5.png",24x7 Zee5 Series
 https://freeiptv25.netlify.app/live/bdix/app/24x7z5.m3u8
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFU1z7yQXSQec4mv_ZSwt29AREWiQQCzZMA&usqp=CAU",Motu Patlu 1
+https://freeiptv25.netlify.app/live/bdix/app/24x7mp1.m3u8
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFU1z7yQXSQec4mv_ZSwt29AREWiQQCzZMA&usqp=CAU",Motu Patlu 2
+https://freeiptv25.netlify.app/live/bdix/app/24x7mp.m3u8
 #EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 2
