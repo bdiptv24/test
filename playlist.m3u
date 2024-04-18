@@ -3,14 +3,10 @@
 
 #EXTINF:-1 group-title="Freeiptv25" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Welcome Freeiptv25
 https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_psg_v_barcelona_45sec_app.png?h=394&w=708&q=high",FCB vs PSG
-https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_atleticomadrid_v_dortmund_45sec_app.png?h=394&w=708&q=high",ATM vs BVB
-https://freeiptv25.netlify.app/live/app/freeiptv25_livetv.mp4
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_realmadrid_v_mancity_45sec_app.png?h=394&w=708&q=high",RMA vs ManCity FC
-https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
-#EXTINF:-1 group-title="UCL 23/24" tvg-logo="https://images.slivcdn.com/videoasset_images/promo_arsenal_v_bayern_45sec_app.png?h=394&w=708&q=high",Arsenal FC vs FC Bayern
-https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+#EXTINF:-1 group-title="Fancode" tvg-logo="https://i.ibb.co/XWRvJX0/Freeiptv25-Fancode.png",Fancode 1
+https://freeiptv25.netlify.app/live/stream_10.m3u8
+#EXTINF:-1 group-title="Fancode" tvg-logo="https://i.ibb.co/XWRvJX0/Freeiptv25-Fancode.png",Fancode 2
+https://freeiptv25.netlify.app/live/stream_11.m3u8
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/cxZ0WNg/Kacher-Manush-Dure-Thuiya-2024-Bengali-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",Kacher Manush Dure Thuiya 2024
 https://aws.flapdoodle.shop/download/MVNOY0pyTTFyOWlyTEstcG5TcnQ5RHp1S2k1MkYzY3ZqQDE3MTA3Mzc0MzM4ODdAMTAzLjI1LjI0OC4yMjZALzRnZVB1QWZndnhPazFjM3hZTnBIamJSZDdMNjh1TnAycUhQbXBjY01hRT0=/MLSBD.Shop-Kacher%20Manush%20Dure%20Thuiya%20(2024)%20RarbgHD.Live-Bengali%20Chorki%20WEB-DL%20720p.mkv
 
@@ -121,10 +117,7 @@ https://freeiptv25.netlify.app/live/stream_7.m3u8
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 9
 https://freeiptv25.netlify.app/live/stream_9.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 10
-https://freeiptv25.netlify.app/live/stream_10.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 11
-https://freeiptv25.netlify.app/live/stream_11.m3u8
+
 -------
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
 http://103.120.172.74:1040
