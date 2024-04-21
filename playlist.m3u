@@ -544,7 +544,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://freeiptv25.netlify.app/live/bdix/app/SonyBbcEarth.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/net_geo_hindihd.jpg",National Geo Bangla
-http://b1g.ooo/Ingrid/Ingrid123/672359
+#http://b1g.ooo/Ingrid/Ingrid123/672359
+http://103.107.79.87:8080/CH8110HD07/video.m3u8 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://freeiptv25.netlify.app/images/net_geo_hindihd.jpg",National Geographic
 https://freeiptv25.netlify.app/live/bdix/app/NatGeo.m3u8
