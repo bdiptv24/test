@@ -9,17 +9,17 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=PPGujxZHphbbv
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=1omkJaPYtiQrZm5yrkkelQ&expires=1720527402&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/asian_tv.jpg",Asian Tv
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=22ZSGghWI9ifVDLb8oHbcQ&expires=1720527415&user=d477246e9e724f81a011b847457e71c4
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/bangla_tv.jpg",Bangla TV
 https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=UBXCokPvBFDo_IXiCnkCtw&expires=1720527462&user=d477246e9e724f81a011b847457e71c4 
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/bangla_vision.jpg",Bangla Vision 
 https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=_BTXyE6PmQnX7g4snIGVtg&expires=1720527473&user=d477246e9e724f81a011b847457e71c4 
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/boishakhi.jpg",Boishakhi
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=qkb9fBSEU3Hke84CujWapA&expires=1720527483&user=d477246e9e724f81a011b847457e71c4
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_24.jpg",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=vBAL5ntnHStgNbLsWRaHGQ&expires=1720527513&user=d477246e9e724f81a011b847457e71c4 
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_9.jpg",Channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=xC2A3JSGnkd07wW_MCGFMQ&expires=1720527539&user=d477246e9e724f81a011b847457e71c4 
-
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=J8BNb82RAC-rLvhejrkx6Q&expires=1720527553&user=d477246e9e724f81a011b847457e71c4 
 
 https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=vY4DBtYrM5SzL-xT0VVzgw&expires=1720527570&user=d477246e9e724f81a011b847457e71c4 
