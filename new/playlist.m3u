@@ -29,6 +29,8 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=pGi0gu5p5bD9
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=PozeBKxaENfG0ol63TrZZQ&expires=1720527622&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/gazitv.jpg",Gazi TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=yMD09JgjzKm6QKpHtgDhgw&expires=1720527639&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/gazitv.jpg",Gazi TV
+https://homeip.biz/GaziTV/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/independent_news.jpg",Independent Tv
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=5GkdIjnA1H55b1hbI6PgmA&expires=1720527656&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg",Maasranga
@@ -36,4 +38,9 @@ https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=XGWG3YTjQd1td
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/jamuna-news.jpg",Jamuna Tv 
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=4TDUUhWyQDI0bkTPEH1UNQ&expires=1720527688&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=iKSRYE-AR4DkJXOK4SmOvw&expires=1720527700&user=d477246e9e724f81a011b847457e71c4 
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=iKSRYE-AR4DkJXOK4SmOvw&expires=1720527700&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/somoy-tv.jpg",Somoy Tv 
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=70mhss5CTaHzmms4EcoJSw&expires=1720528084&user=d477246e9e724f81a011b847457e71c4
+
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
+
