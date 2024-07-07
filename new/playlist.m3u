@@ -1,5 +1,39 @@
 #EXTM3U playlists by @freeiptv25
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg",ATN Bangla 
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=ok11X3Lgj0MTp0nl8HAbpg&expires=1720527073&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_news.jpg",Atn News
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=kEKSJo9kriWDLAZY73ZA_A&expires=1720527370&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9C08uMt-xE5eID00oN85OhdeOiY1KJzEXgQ&usqp=CAU",BTV National
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=PPGujxZHphbbvGIiZRLhUw&expires=1720527289&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/anando_tv.jpg",Anando TV
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=1omkJaPYtiQrZm5yrkkelQ&expires=1720527402&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/asian_tv.jpg",Asian Tv
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=22ZSGghWI9ifVDLb8oHbcQ&expires=1720527415&user=d477246e9e724f81a011b847457e71c4
+
+https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=UBXCokPvBFDo_IXiCnkCtw&expires=1720527462&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=_BTXyE6PmQnX7g4snIGVtg&expires=1720527473&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=qkb9fBSEU3Hke84CujWapA&expires=1720527483&user=d477246e9e724f81a011b847457e71c4
+
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=vBAL5ntnHStgNbLsWRaHGQ&expires=1720527513&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=xC2A3JSGnkd07wW_MCGFMQ&expires=1720527539&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=J8BNb82RAC-rLvhejrkx6Q&expires=1720527553&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=vY4DBtYrM5SzL-xT0VVzgw&expires=1720527570&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=pGi0gu5p5bD9N4biipkfZQ&expires=1720527585&user=d477246e9e724f81a011b847457e71c4
+
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=PozeBKxaENfG0ol63TrZZQ&expires=1720527622&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=yMD09JgjzKm6QKpHtgDhgw&expires=1720527639&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=5GkdIjnA1H55b1hbI6PgmA&expires=1720527656&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=XGWG3YTjQd1td4FaKweb0g&expires=1720527666&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=4TDUUhWyQDI0bkTPEH1UNQ&expires=1720527688&user=d477246e9e724f81a011b847457e71c4 
+
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=iKSRYE-AR4DkJXOK4SmOvw&expires=1720527700&user=d477246e9e724f81a011b847457e71c4 
