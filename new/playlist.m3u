@@ -68,4 +68,14 @@ https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 1
 http://homeip.biz/tipsVOD24/7/index.m3u8?token=235b1ac73d16c17dfd453434c7e19b54 
 #EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 2
-http://homeip.biz/TSER247/index.m3u8?token=a6d521f7de76f81874f844d863966bc7 
+http://homeip.biz/TSER247/index.m3u8?token=a6d521f7de76f81874f844d863966bc7
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nick Hindi
+https://test-tan-iota-90.vercel.app/live/bdix/app/NickHindi.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids Hindi
+https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony Yah
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonyYah.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
+https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
