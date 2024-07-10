@@ -79,3 +79,15 @@ https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
 https://test-tan-iota-90.vercel.app/live/bdix/app/SonyYah.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonySports1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten2.jpg",Sony Sports 2
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonySports2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten3.jpg",Sony Sports 3
+https://test-tan-iota-90.vercel.app/live/bdix/app/SonySports3.m3u8 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports 1 HD
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1HD.m3u8 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8 
