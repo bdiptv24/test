@@ -70,7 +70,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/%26pictureshd.jpg",&Pictures
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max.jpg",Sony Max 
-http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8 
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
+http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2 
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select 
