@@ -56,7 +56,7 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa6
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
 http://homeip.biz/IN_ColorsBengali/index.m3u8?token=6d96f3839bbfa2d65e96450899054613
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zae-bangla-cinema.jpg",Zee Bangla Cinema 
-https://dai.google.com/ssai/event/MQ737atmSaWzYp63efXNTQ/master.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee-bangla.jpg",Zee Bangla 
 http://humsab.xyz/IN_ZEBS/index.m3u8?token=ea4b2405ddb228058b47e6cc531a65e5
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsha 
@@ -74,7 +74,7 @@ http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold 
 http://humsab.xyz/IN_STGOLD/index.m3u8?token=d6775a1f115e5106be2e258d1a97ef71 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema
-https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nick Hindi
 http://homeip.biz/IN_NICKHD/mpegts?token=5aaa53dcf4baf5ce533e17a4bf11db6b
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
