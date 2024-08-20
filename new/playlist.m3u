@@ -119,3 +119,38 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/animal_planethd.jpg",Animal Planet
+https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbsv7k-npTRQaOzwRhXBuhDw13l0dnbThRg&usqp=CAU",DMAX
+https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_science.jpg",Discovery Science
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_turbo.jpg",Discovery Turbo
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/investigation_discovery.jpg",Investigation Discovery
+https://cdn1-freeiptv25.vercel.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg&usqp=CAU",Discovery Bengali
+https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/discoveryhd.jpg",Discovery Hindi
+https://cdn1-freeiptv25.vercel.app/m3u/discoveryhindi.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://test-tan-iota-90.vercel.app/images/tlc_hd.jpg",TLC
+https://cdn1-freeiptv25.vercel.app/m3u/TLC.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/aa/75/44aa75ef-34bc-2221-8b3f-6270bd39750d/AppIcon-TRAV-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",TRVL Channel
+https://cdn1-freeiptv25.vercel.app/m3u/TRVL_Channel.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxUoN_D20sbVc40M-l_6V413cByn4c1eOefA&usqp=CAU",HGTV
+https://cdn1-freeiptv25.vercel.app/m3u/HGTV.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctbIIxqAJ8INZn8YGhXM4xBoQ8X3V7O8rMg&usqp=CAU",Food Network
+https://cdn1-freeiptv25.vercel.app/m3u/Food Network.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
