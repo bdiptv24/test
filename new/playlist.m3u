@@ -78,7 +78,7 @@ http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/b4u-kadak.jpg",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select 
-http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0bf2f9 
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-GOLD-SELECT/live.mpd 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold 
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema
